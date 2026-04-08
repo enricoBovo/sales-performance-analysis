@@ -71,10 +71,10 @@ The workflow reflects a real-world pipeline from raw data → cleaned dataset �
 ---
 
 ## Project Structure
-  - data/ # Raw dataset and Python script to generate it
-  - scripts/ # Data cleaning scripts (Python / R) and resulting cleaned data
-  - powerbi/ # Power BI dashboard (.pbix)
-  - images/ # Dashboard screenshots
+  - data/ Raw dataset and Python script to generate it
+  - scripts/ Data cleaning scripts (Python / R) and resulting cleaned data
+  - powerbi/ Power BI dashboard (.pbix)
+  - images/ Dashboard screenshots
   - README.md
 ---
 
@@ -96,8 +96,11 @@ The workflow reflects a real-world pipeline from raw data → cleaned dataset �
 ![Deep Dive](images/dashboard_Details.jpg)
 
 **Overview** – headline sales KPIs and long-term trends, also by category, region and representatives 
+
 **Overview - Category Breakdown** – overview selecting a certain category 
+
 **Deep Dive** – detailed analysis by category and product 
+
 
 ---
 
