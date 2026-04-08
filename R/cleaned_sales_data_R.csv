@@ -1,0 +1,1001 @@
+order_id,order_date,customer,email,product,category,quantity,unit_price,total_sale,region,sales_rep
+ORD-1708,2024-01-01,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,5,49,245,West,Mike R.
+ORD-1645,2024-01-02,Peak Solutions,info@peaksol.com,Mechanical Keyboard,Electronics,9,79.99,719.91,South,Mike R.
+ORD-1868,2024-01-02,Peak Solutions,info@peaksol.com,Wireless Mouse,Electronics,13,29.99,389.87,East,Anna K.
+ORD-1871,2024-01-02,Rivera & Sons,contact@riverasons.com,Webcam Hd,Electronics,3,35,105,North,Tom B.
+ORD-1968,2024-01-02,Sunshine Bakery,orders@sunshine.com,Desk Lamp,Office Supplies,2,34.99,69.98,South,Sarah J.
+ORD-1206,2024-01-03,Acme Corp,billing@acme.com,Pen Pack,Office Supplies,1,8.99,8.99,East,Anna K.
+ORD-1450,2024-01-03,Peak Solutions,info@peaksol.com,Pen Pack,Office Supplies,2,8.99,17.98,North,Mike R.
+ORD-1762,2024-01-03,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,7,325,2275,South,Lisa C.
+ORD-1074,2024-01-04,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,3,59.99,179.97,West,Anna K.
+ORD-1428,2024-01-05,Blue Ridge Llc,admin@blueridge.com,Desk Lamp,Office Supplies,8,34.99,279.92,South,Anna K.
+ORD-1371,2024-01-07,Sunshine Bakery,orders@sunshine.com,Standing Desk,Furniture,13,549,7137,West,Tom B.
+ORD-1682,2024-01-07,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,10,325,3250,West,Tom B.
+ORD-1788,2024-01-07,Greenleaf Ltd,contact@greenleaf.com,Webcam Hd,Electronics,10,35,350,East,Anna K.
+ORD-1991,2024-01-08,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,15,325,4875,West,Mike R.
+ORD-1158,2024-01-09,Global Tech,info@globaltech.com,Desk Lamp,Office Supplies,8,34.99,279.92,North,Tom B.
+ORD-1353,2024-01-09,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,12,325,3900,West,Anna K.
+ORD-1880,2024-01-09,Acme Corp,billing@acme.com,Pdf Editor,Software,7,79,553,North,Lisa C.
+ORD-1337,2024-01-10,Sunset Catering,orders@sunsetcatering.com,Desk Organizer,Office Supplies,15,12.5,187.5,North,Tom B.
+ORD-1803,2024-01-10,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,1,549,549,West,Anna K.
+ORD-1987,2024-01-10,Acme Corp,billing@acme.com,Webcam Hd,Electronics,7,35,245,West,Tom B.
+ORD-1275,2024-01-11,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,12,79,948,South,Lisa C.
+ORD-1539,2024-01-11,Blue Ridge Llc,admin@blueridge.com,Notebook Set,Office Supplies,14,18,252,West,Anna K.
+ORD-1121,2024-01-12,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,12,325,3900,South,Anna K.
+ORD-1208,2024-01-12,Delta Supplies,orders@deltasupplies.com,Desk Organizer,Office Supplies,6,12.5,75,North,Tom B.
+ORD-1265,2024-01-12,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,4,325,1300,East,Tom B.
+ORD-1283,2024-01-12,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,9,89.99,809.91,South,Sarah J.
+ORD-1459,2024-01-12,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,1,325,325,South,Tom B.
+ORD-1993,2024-01-12,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,9,89.99,809.91,North,Sarah J.
+ORD-1363,2024-01-13,Peak Solutions,info@peaksol.com,Desk Lamp,Office Supplies,6,34.99,209.94,North,Lisa C.
+ORD-1759,2024-01-13,Sunset Catering,orders@sunsetcatering.com,Webcam Hd,Electronics,9,35,315,West,Anna K.
+ORD-1850,2024-01-13,Bright Horizons,hello@brighthorizons.com,Stapler Pro,Office Supplies,6,22.5,135,North,Tom B.
+ORD-1098,2024-01-14,Novex Industries,purchase@novex.com,Standing Desk,Furniture,13,549,7137,South,Anna K.
+ORD-1417,2024-01-14,Rivera & Sons,contact@riverasons.com,Vpn Annual,Software,3,49,147,South,Tom B.
+ORD-1031,2024-01-15,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,11,89.99,989.89,West,Mike R.
+ORD-1071,2024-01-15,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,13,89.99,1169.87,East,Lisa C.
+ORD-1368,2024-01-15,Global Tech,info@globaltech.com,Standing Desk,Furniture,2,549,1098,East,Anna K.
+ORD-1402,2024-01-15,Blue Ridge Llc,admin@blueridge.com,Ergonomic Chair,Furniture,10,325,3250,West,Mike R.
+ORD-1549,2024-01-16,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,2,325,650,South,Sarah J.
+ORD-1692,2024-01-16,Sunshine Bakery,orders@sunshine.com,Stapler Pro,Office Supplies,6,22.5,135,West,Tom B.
+ORD-1817,2024-01-16,Blue Ridge Llc,admin@blueridge.com,Usb-C Hub,Electronics,3,49.99,149.97,North,Sarah J.
+ORD-1873,2024-01-16,Novex Industries,purchase@novex.com,Pdf Editor,Software,2,79,158,West,Mike R.
+ORD-1727,2024-01-18,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,1,34.99,34.99,West,Anna K.
+ORD-1959,2024-01-18,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,9,34.99,314.91,South,Sarah J.
+ORD-1092,2024-01-19,Metro Office Co,buy@metrooffice.com,Pen Pack,Office Supplies,6,8.99,53.94,North,Lisa C.
+ORD-1304,2024-01-19,Sunshine Bakery,orders@sunshine.com,Laptop Stand,Electronics,10,45,450,East,Lisa C.
+ORD-1305,2024-01-19,Global Tech,info@globaltech.com,Standing Desk,Furniture,6,549,3294,West,Sarah J.
+ORD-1841,2024-01-19,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,13,325,4225,South,Sarah J.
+ORD-1975,2024-01-19,Blue Ridge Llc,admin@blueridge.com,Desk Lamp,Office Supplies,7,34.99,244.93,East,Mike R.
+ORD-1023,2024-01-20,Global Tech,info@globaltech.com,Pdf Editor,Software,12,79,948,East,Tom B.
+ORD-1115,2024-01-20,Acme Corp,billing@acme.com,Monitor Arm,Furniture,10,89.99,899.9,North,Lisa C.
+ORD-1020,2024-01-22,Blue Ridge Llc,admin@blueridge.com,Ergonomic Chair,Furniture,15,325,4875,East,Mike R.
+ORD-1234,2024-01-22,Acme Corp,billing@acme.com,Vpn Annual,Software,9,49,441,North,Lisa C.
+ORD-1741,2024-01-22,Delta Supplies,orders@deltasupplies.com,"Monitor 27""",Electronics,14,220,3080,North,Anna K.
+ORD-1669,2024-01-23,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,7,22.5,157.5,South,Sarah J.
+ORD-1130,2024-01-24,Delta Supplies,orders@deltasupplies.com,Notebook Set,Office Supplies,1,18,18,East,Anna K.
+ORD-1219,2024-01-24,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,14,59.99,839.86,West,Sarah J.
+ORD-1220,2024-01-24,Metro Office Co,buy@metrooffice.com,Mechanical Keyboard,Electronics,8,79.99,639.92,South,Tom B.
+ORD-1714,2024-01-24,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,15,49,735,West,Mike R.
+ORD-1725,2024-01-24,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,10,18,180,North,Mike R.
+ORD-1013,2024-01-26,Metro Office Co,buy@metrooffice.com,Wireless Mouse,Electronics,15,29.99,449.84999999999997,South,Mike R.
+ORD-1113,2024-01-26,Metro Office Co,buy@metrooffice.com,Notebook Set,Office Supplies,1,18,18,North,Tom B.
+ORD-1188,2024-01-26,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,1,59.99,59.99,East,Sarah J.
+ORD-1159,2024-01-27,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,12,89.99,1079.88,South,Tom B.
+ORD-1331,2024-01-27,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,8,79,632,East,Tom B.
+ORD-1834,2024-01-27,Peak Solutions,info@peaksol.com,Vpn Annual,Software,2,49,98,West,Tom B.
+ORD-1048,2024-01-28,Rivera & Sons,contact@riverasons.com,Monitor Arm,Furniture,13,89.99,1169.87,West,Tom B.
+ORD-1406,2024-01-28,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,4,12.5,50,South,Sarah J.
+ORD-1671,2024-01-28,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,5,325,1625,South,Anna K.
+ORD-1974,2024-01-28,Global Tech,info@globaltech.com,Wireless Mouse,Electronics,2,29.99,59.98,West,Tom B.
+ORD-1201,2024-01-30,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,6,49,294,South,Sarah J.
+ORD-1430,2024-01-31,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,9,89.99,809.91,East,Sarah J.
+ORD-1616,2024-01-31,Sunshine Bakery,orders@sunshine.com,Stapler Pro,Office Supplies,14,22.5,315,East,Sarah J.
+ORD-1886,2024-01-31,Greenleaf Ltd,contact@greenleaf.com,Vpn Annual,Software,5,49,245,South,Tom B.
+ORD-1063,2024-02-01,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,2,325,650,West,Sarah J.
+ORD-1118,2024-02-01,Metro Office Co,buy@metrooffice.com,Mechanical Keyboard,Electronics,5,79.99,399.95,South,Tom B.
+ORD-1398,2024-02-01,Peak Solutions,info@peaksol.com,Pen Pack,Office Supplies,6,8.99,53.94,North,Sarah J.
+ORD-1611,2024-02-01,Delta Supplies,orders@deltasupplies.com,Ergonomic Chair,Furniture,1,325,325,North,Tom B.
+ORD-1648,2024-02-01,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,11,549,6039,East,Tom B.
+ORD-1510,2024-02-02,Bright Horizons,hello@brighthorizons.com,Usb-C Hub,Electronics,11,49.99,549.89,North,Mike R.
+ORD-1628,2024-02-02,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,13,8.99,116.87,East,Lisa C.
+ORD-1690,2024-02-02,Delta Supplies,orders@deltasupplies.com,Monitor Arm,Furniture,12,89.99,1079.88,West,Anna K.
+ORD-1366,2024-02-03,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,1,59.99,59.99,West,Lisa C.
+ORD-1379,2024-02-03,Novex Industries,purchase@novex.com,Pen Pack,Office Supplies,4,8.99,35.96,West,Sarah J.
+ORD-1411,2024-02-03,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,12,79,948,East,Anna K.
+ORD-1441,2024-02-03,Sunset Catering,orders@sunsetcatering.com,Mechanical Keyboard,Electronics,11,79.99,879.89,South,Sarah J.
+ORD-1448,2024-02-03,Delta Supplies,orders@deltasupplies.com,Desk Organizer,Office Supplies,3,12.5,37.5,East,Anna K.
+ORD-1751,2024-02-03,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,5,89.99,449.95,North,Anna K.
+ORD-1810,2024-02-03,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,1,59.99,59.99,West,Tom B.
+ORD-1863,2024-02-03,Acme Corp,billing@acme.com,Webcam Hd,Electronics,7,35,245,South,Tom B.
+ORD-1533,2024-02-04,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,15,49,735,North,Mike R.
+ORD-1827,2024-02-04,Sunset Catering,orders@sunsetcatering.com,"Monitor 27""",Electronics,3,220,660,South,Tom B.
+ORD-1015,2024-02-05,Delta Supplies,orders@deltasupplies.com,Laptop Stand,Electronics,14,45,630,South,Tom B.
+ORD-1017,2024-02-05,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,3,549,1647,West,Anna K.
+ORD-1276,2024-02-05,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,5,34.99,174.95,East,Anna K.
+ORD-1456,2024-02-05,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,12,34.99,419.88,West,Anna K.
+ORD-1044,2024-02-06,Metro Office Co,buy@metrooffice.com,Pen Pack,Office Supplies,13,8.99,116.87,South,Tom B.
+ORD-1128,2024-02-07,Rivera & Sons,contact@riverasons.com,Desk Lamp,Office Supplies,4,34.99,139.96,East,Lisa C.
+ORD-1715,2024-02-07,Novex Industries,purchase@novex.com,Antivirus 1yr,Software,14,59.99,839.86,South,Anna K.
+ORD-1896,2024-02-07,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,7,59.99,419.93,South,Mike R.
+ORD-1978,2024-02-07,Bright Horizons,hello@brighthorizons.com,Monitor Arm,Furniture,6,89.99,539.9399999999999,West,Lisa C.
+ORD-1053,2024-02-08,Sunset Catering,orders@sunsetcatering.com,Standing Desk,Furniture,10,549,5490,West,Sarah J.
+ORD-1513,2024-02-08,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,7,549,3843,South,Tom B.
+ORD-1877,2024-02-08,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,5,89.99,449.95,West,Sarah J.
+ORD-1284,2024-02-09,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,3,549,1647,West,Anna K.
+ORD-1620,2024-02-09,Acme Corp,billing@acme.com,Desk Lamp,Office Supplies,3,34.99,104.97,East,Sarah J.
+ORD-1849,2024-02-09,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,14,549,7686,West,Sarah J.
+ORD-1191,2024-02-10,Peak Solutions,info@peaksol.com,"Monitor 27""",Electronics,10,220,2200,South,Sarah J.
+ORD-1100,2024-02-10,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,5,22.5,112.5,South,Lisa C.
+ORD-1279,2024-02-10,Sunset Catering,orders@sunsetcatering.com,Webcam Hd,Electronics,9,35,315,West,Lisa C.
+ORD-1634,2024-02-10,Novex Industries,purchase@novex.com,Webcam Hd,Electronics,11,35,385,West,Anna K.
+ORD-1101,2024-02-11,Acme Corp,billing@acme.com,Monitor Arm,Furniture,4,89.99,359.96,West,Anna K.
+ORD-1334,2024-02-11,Metro Office Co,buy@metrooffice.com,Laptop Stand,Electronics,2,45,90,North,Anna K.
+ORD-1093,2024-02-12,Greenleaf Ltd,contact@greenleaf.com,Antivirus 1yr,Software,7,59.99,419.93,South,Anna K.
+ORD-1573,2024-02-12,Sunshine Bakery,orders@sunshine.com,Laptop Stand,Electronics,10,45,450,North,Sarah J.
+ORD-1740,2024-02-12,Acme Corp,billing@acme.com,Laptop Stand,Electronics,13,45,585,West,Mike R.
+ORD-1042,2024-02-13,Rivera & Sons,contact@riverasons.com,"Monitor 27""",Electronics,13,220,2860,West,Anna K.
+ORD-1511,2024-02-13,Global Tech,info@globaltech.com,Standing Desk,Furniture,9,549,4941,South,Tom B.
+ORD-1519,2024-02-13,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,15,89.99,1349.85,West,Sarah J.
+ORD-1626,2024-02-13,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,10,549,5490,West,Sarah J.
+ORD-1652,2024-02-13,Global Tech,info@globaltech.com,"Monitor 27""",Electronics,12,220,2640,West,Sarah J.
+ORD-1984,2024-02-13,Rivera & Sons,contact@riverasons.com,Mechanical Keyboard,Electronics,8,79.99,639.92,North,Mike R.
+ORD-1670,2024-02-14,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,11,89.99,989.89,North,Mike R.
+ORD-1953,2024-02-14,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,5,34.99,174.95,North,Lisa C.
+ORD-1400,2024-02-15,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,12,8.99,107.88,South,Sarah J.
+ORD-1924,2024-02-15,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,9,325,2925,East,Anna K.
+ORD-1060,2024-02-16,Peak Solutions,info@peaksol.com,Webcam Hd,Electronics,9,35,315,North,Tom B.
+ORD-1175,2024-02-16,Greenleaf Ltd,contact@greenleaf.com,Pen Pack,Office Supplies,7,8.99,62.93,North,Lisa C.
+ORD-1321,2024-02-16,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,15,22.5,337.5,North,Mike R.
+ORD-1396,2024-02-16,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,14,325,4550,South,Tom B.
+ORD-1673,2024-02-16,Bright Horizons,hello@brighthorizons.com,Pen Pack,Office Supplies,4,8.99,35.96,West,Lisa C.
+ORD-1677,2024-02-16,Blue Ridge Llc,admin@blueridge.com,Pen Pack,Office Supplies,8,8.99,71.92,West,Mike R.
+ORD-1995,2024-02-16,Metro Office Co,buy@metrooffice.com,Usb-C Hub,Electronics,9,49.99,449.91,West,Anna K.
+ORD-1026,2024-02-17,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,13,325,4225,South,Mike R.
+ORD-1586,2024-02-17,Blue Ridge Llc,admin@blueridge.com,Monitor Arm,Furniture,2,89.99,179.98,East,Anna K.
+ORD-1746,2024-02-17,Global Tech,info@globaltech.com,Pdf Editor,Software,3,79,237,East,Anna K.
+ORD-1655,2024-02-18,Bright Horizons,hello@brighthorizons.com,Notebook Set,Office Supplies,14,18,252,West,Anna K.
+ORD-1342,2024-02-19,Sunset Catering,orders@sunsetcatering.com,Stapler Pro,Office Supplies,2,22.5,45,North,Sarah J.
+ORD-1505,2024-02-19,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,14,89.99,1259.86,North,Lisa C.
+ORD-1693,2024-02-19,Peak Solutions,info@peaksol.com,Notebook Set,Office Supplies,2,18,36,East,Mike R.
+ORD-1808,2024-02-19,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,11,325,3575,South,Tom B.
+ORD-1890,2024-02-19,Peak Solutions,info@peaksol.com,Vpn Annual,Software,4,49,196,South,Lisa C.
+ORD-1145,2024-02-20,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,12,22.5,270,South,Tom B.
+ORD-1040,2024-02-21,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,6,325,1950,South,Lisa C.
+ORD-1186,2024-02-21,Sunset Catering,orders@sunsetcatering.com,Notebook Set,Office Supplies,8,18,144,North,Sarah J.
+ORD-1236,2024-02-21,Blue Ridge Llc,admin@blueridge.com,Usb-C Hub,Electronics,6,49.99,299.94,West,Tom B.
+ORD-1250,2024-02-21,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,13,79,1027,North,Mike R.
+ORD-1260,2024-02-21,Greenleaf Ltd,contact@greenleaf.com,Ergonomic Chair,Furniture,9,325,2925,West,Tom B.
+ORD-1859,2024-02-21,Acme Corp,billing@acme.com,Wireless Mouse,Electronics,10,29.99,299.9,North,Mike R.
+ORD-1920,2024-02-21,Sunshine Bakery,orders@sunshine.com,Pen Pack,Office Supplies,15,8.99,134.85,East,Lisa C.
+ORD-1241,2024-02-22,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,5,89.99,449.95,South,Tom B.
+ORD-1543,2024-02-22,Blue Ridge Llc,admin@blueridge.com,Ergonomic Chair,Furniture,10,325,3250,East,Sarah J.
+ORD-1951,2024-02-22,Rivera & Sons,contact@riverasons.com,"Monitor 27""",Electronics,12,220,2640,West,Lisa C.
+ORD-1999,2024-02-22,Peak Solutions,info@peaksol.com,Notebook Set,Office Supplies,15,18,270,East,Anna K.
+ORD-1221,2024-02-23,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,15,89.99,1349.85,West,Tom B.
+ORD-1469,2024-02-23,Metro Office Co,buy@metrooffice.com,Desk Organizer,Office Supplies,14,12.5,175,West,Sarah J.
+ORD-1657,2024-02-23,Peak Solutions,info@peaksol.com,Mechanical Keyboard,Electronics,3,79.99,239.97,North,Mike R.
+ORD-1018,2024-02-24,Greenleaf Ltd,contact@greenleaf.com,Pen Pack,Office Supplies,5,8.99,44.95,South,Lisa C.
+ORD-1193,2024-02-24,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,14,35,490,East,Tom B.
+ORD-1424,2024-02-24,Delta Supplies,orders@deltasupplies.com,"Monitor 27""",Electronics,1,220,220,North,Mike R.
+ORD-1855,2024-02-24,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,15,18,270,South,Tom B.
+ORD-1291,2024-02-25,Acme Corp,billing@acme.com,Monitor Arm,Furniture,7,89.99,629.93,South,Tom B.
+ORD-1306,2024-02-25,Delta Supplies,orders@deltasupplies.com,Mechanical Keyboard,Electronics,12,79.99,959.88,East,Tom B.
+ORD-1524,2024-02-25,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,3,59.99,179.97,East,Tom B.
+ORD-1625,2024-02-25,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,15,49,735,East,Anna K.
+ORD-1765,2024-02-25,Global Tech,info@globaltech.com,Antivirus 1yr,Software,2,59.99,119.98,West,Mike R.
+ORD-1088,2024-02-26,Blue Ridge Llc,admin@blueridge.com,Pen Pack,Office Supplies,2,8.99,17.98,North,Mike R.
+ORD-1211,2024-02-26,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,2,59.99,119.98,North,Sarah J.
+ORD-1383,2024-02-26,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,9,49,441,West,Tom B.
+ORD-1642,2024-02-26,Greenleaf Ltd,contact@greenleaf.com,Mechanical Keyboard,Electronics,15,79.99,1199.85,West,Tom B.
+ORD-1326,2024-02-27,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,2,49,98,South,Anna K.
+ORD-1630,2024-02-27,Bright Horizons,hello@brighthorizons.com,Usb-C Hub,Electronics,4,49.99,199.96,East,Anna K.
+ORD-1709,2024-02-27,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,6,59.99,359.94,West,Tom B.
+ORD-1243,2024-02-28,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,4,79,316,South,Tom B.
+ORD-1320,2024-02-28,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,9,79,711,North,Tom B.
+ORD-1146,2024-02-29,Greenleaf Ltd,contact@greenleaf.com,Pen Pack,Office Supplies,5,8.99,44.95,East,Tom B.
+ORD-1869,2024-02-29,Rivera & Sons,contact@riverasons.com,Vpn Annual,Software,12,49,588,East,Mike R.
+ORD-1167,2024-03-01,Acme Corp,billing@acme.com,Standing Desk,Furniture,5,549,2745,North,Lisa C.
+ORD-1217,2024-03-01,Sunset Catering,orders@sunsetcatering.com,Wireless Mouse,Electronics,7,29.99,209.93,West,Sarah J.
+ORD-1382,2024-03-01,Peak Solutions,info@peaksol.com,Pdf Editor,Software,14,79,1106,West,Tom B.
+ORD-1401,2024-03-01,Rivera & Sons,contact@riverasons.com,Notebook Set,Office Supplies,14,18,252,East,Lisa C.
+ORD-1575,2024-03-01,Novex Industries,purchase@novex.com,Standing Desk,Furniture,10,549,5490,North,Mike R.
+ORD-1755,2024-03-01,Novex Industries,purchase@novex.com,Pdf Editor,Software,1,79,79,East,Sarah J.
+ORD-1832,2024-03-01,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,4,89.99,359.96,South,Anna K.
+ORD-1174,2024-03-02,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,8,325,2600,East,Tom B.
+ORD-1207,2024-03-02,Acme Corp,billing@acme.com,Standing Desk,Furniture,8,549,4392,East,Tom B.
+ORD-1285,2024-03-02,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,13,45,585,West,Sarah J.
+ORD-1479,2024-03-02,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,6,12.5,75,East,Mike R.
+ORD-1753,2024-03-02,Novex Industries,purchase@novex.com,Wireless Mouse,Electronics,7,29.99,209.93,West,Tom B.
+ORD-1809,2024-03-02,Metro Office Co,buy@metrooffice.com,Mechanical Keyboard,Electronics,3,79.99,239.97,North,Sarah J.
+ORD-1176,2024-03-03,Acme Corp,billing@acme.com,Usb-C Hub,Electronics,3,49.99,149.97,South,Tom B.
+ORD-1425,2024-03-03,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,13,79,1027,North,Mike R.
+ORD-1301,2024-03-04,Global Tech,info@globaltech.com,Laptop Stand,Electronics,8,45,360,East,Sarah J.
+ORD-1722,2024-03-04,Peak Solutions,info@peaksol.com,Mechanical Keyboard,Electronics,14,79.99,1119.86,South,Tom B.
+ORD-1979,2024-03-04,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,4,34.99,139.96,West,Lisa C.
+ORD-1461,2024-03-05,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,12,59.99,719.88,North,Tom B.
+ORD-1526,2024-03-05,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,1,89.99,89.99,South,Sarah J.
+ORD-1686,2024-03-05,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,7,34.99,244.93,East,Lisa C.
+ORD-1906,2024-03-05,Global Tech,info@globaltech.com,Webcam Hd,Electronics,13,35,455,North,Sarah J.
+ORD-1106,2024-03-06,Global Tech,info@globaltech.com,Pdf Editor,Software,13,79,1027,East,Anna K.
+ORD-1384,2024-03-06,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,10,89.99,899.9,North,Lisa C.
+ORD-1404,2024-03-06,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,15,325,4875,North,Anna K.
+ORD-1405,2024-03-06,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,6,89.99,539.94,West,Lisa C.
+ORD-1721,2024-03-06,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,6,325,1950,East,Mike R.
+ORD-1019,2024-03-07,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,12,325,3900,West,Anna K.
+ORD-1460,2024-03-07,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,7,22.5,157.5,East,Lisa C.
+ORD-1775,2024-03-07,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,15,89.99,1349.85,North,Sarah J.
+ORD-1918,2024-03-07,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,1,49,49,East,Sarah J.
+ORD-1372,2024-03-08,Acme Corp,billing@acme.com,Pdf Editor,Software,5,79,395,East,Mike R.
+ORD-1676,2024-03-08,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,7,89.99,629.93,North,Mike R.
+ORD-1324,2024-03-09,Acme Corp,billing@acme.com,Laptop Stand,Electronics,1,45,45,South,Tom B.
+ORD-1399,2024-03-09,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,14,22.5,315,East,Lisa C.
+ORD-1155,2024-03-10,Peak Solutions,info@peaksol.com,Webcam Hd,Electronics,14,35,490,South,Mike R.
+ORD-1183,2024-03-10,Sunshine Bakery,orders@sunshine.com,Vpn Annual,Software,8,49,392,East,Mike R.
+ORD-1196,2024-03-10,Bright Horizons,hello@brighthorizons.com,Usb-C Hub,Electronics,4,49.99,199.96,South,Sarah J.
+ORD-1287,2024-03-10,Sunset Catering,orders@sunsetcatering.com,Desk Lamp,Office Supplies,7,34.99,244.93,South,Anna K.
+ORD-1749,2024-03-10,Novex Industries,purchase@novex.com,Laptop Stand,Electronics,3,45,135,East,Mike R.
+ORD-1297,2024-03-11,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,1,18,18,West,Sarah J.
+ORD-1482,2024-03-11,Novex Industries,purchase@novex.com,Pdf Editor,Software,4,79,316,South,Tom B.
+ORD-1576,2024-03-11,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,12,45,540,South,Lisa C.
+ORD-1644,2024-03-11,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,11,59.99,659.89,South,Lisa C.
+ORD-1982,2024-03-11,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,1,79,79,North,Sarah J.
+ORD-1277,2024-03-12,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,9,59.99,539.91,West,Anna K.
+ORD-1468,2024-03-12,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,11,89.99,989.89,West,Tom B.
+ORD-1440,2024-03-13,Peak Solutions,info@peaksol.com,Standing Desk,Furniture,7,549,3843,North,Sarah J.
+ORD-1542,2024-03-13,Acme Corp,billing@acme.com,Desk Organizer,Office Supplies,4,12.5,50,West,Tom B.
+ORD-1938,2024-03-13,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,9,49,441,South,Mike R.
+ORD-1433,2024-03-14,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,12,34.99,419.88,West,Mike R.
+ORD-1752,2024-03-14,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,10,325,3250,North,Lisa C.
+ORD-1112,2024-03-15,Blue Ridge Llc,admin@blueridge.com,Webcam Hd,Electronics,12,35,420,North,Lisa C.
+ORD-1271,2024-03-15,Acme Corp,billing@acme.com,Standing Desk,Furniture,2,549,1098,West,Mike R.
+ORD-1349,2024-03-15,Rivera & Sons,contact@riverasons.com,Antivirus 1yr,Software,7,59.99,419.93,East,Mike R.
+ORD-1109,2024-03-16,Metro Office Co,buy@metrooffice.com,Desk Organizer,Office Supplies,10,12.5,125,North,Mike R.
+ORD-1455,2024-03-16,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,6,89.99,539.94,East,Lisa C.
+ORD-1595,2024-03-16,Peak Solutions,info@peaksol.com,Notebook Set,Office Supplies,6,18,108,West,Sarah J.
+ORD-1687,2024-03-16,Delta Supplies,orders@deltasupplies.com,Mechanical Keyboard,Electronics,9,79.99,719.91,North,Lisa C.
+ORD-1701,2024-03-16,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,4,325,1300,East,Anna K.
+ORD-1702,2024-03-16,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,5,549,2745,South,Sarah J.
+ORD-1051,2024-03-17,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,6,79,474,West,Tom B.
+ORD-1107,2024-03-17,Delta Supplies,orders@deltasupplies.com,Pen Pack,Office Supplies,15,8.99,134.85,East,Mike R.
+ORD-1862,2024-03-17,Greenleaf Ltd,contact@greenleaf.com,Webcam Hd,Electronics,13,35,455,East,Lisa C.
+ORD-1889,2024-03-17,Acme Corp,billing@acme.com,Monitor Arm,Furniture,13,89.99,1169.87,West,Anna K.
+ORD-1990,2024-03-17,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,1,79,79,West,Tom B.
+ORD-1008,2024-03-19,Novex Industries,purchase@novex.com,Stapler Pro,Office Supplies,13,22.5,292.5,North,Anna K.
+ORD-1738,2024-03-19,Global Tech,info@globaltech.com,Standing Desk,Furniture,1,549,549,West,Lisa C.
+ORD-1267,2024-03-20,Blue Ridge Llc,admin@blueridge.com,Wireless Mouse,Electronics,9,29.99,269.91,South,Lisa C.
+ORD-1102,2024-03-21,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,8,79,632,South,Lisa C.
+ORD-1344,2024-03-21,Acme Corp,billing@acme.com,Antivirus 1yr,Software,1,59.99,59.99,North,Mike R.
+ORD-1180,2024-03-22,Global Tech,info@globaltech.com,Notebook Set,Office Supplies,5,18,90,North,Mike R.
+ORD-1471,2024-03-22,Delta Supplies,orders@deltasupplies.com,Monitor Arm,Furniture,4,89.99,359.96,West,Lisa C.
+ORD-1777,2024-03-22,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,5,49,245,South,Sarah J.
+ORD-1771,2024-03-23,Novex Industries,purchase@novex.com,Mechanical Keyboard,Electronics,13,79.99,1039.87,East,Mike R.
+ORD-1004,2024-03-24,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,11,325,3575,East,Sarah J.
+ORD-1116,2024-03-24,Greenleaf Ltd,contact@greenleaf.com,Vpn Annual,Software,5,49,245,South,Sarah J.
+ORD-1302,2024-03-24,Sunshine Bakery,orders@sunshine.com,Desk Organizer,Office Supplies,7,12.5,87.5,East,Lisa C.
+ORD-1369,2024-03-24,Delta Supplies,orders@deltasupplies.com,Usb-C Hub,Electronics,6,49.99,299.94,West,Mike R.
+ORD-1723,2024-03-24,Rivera & Sons,contact@riverasons.com,Mechanical Keyboard,Electronics,12,79.99,959.88,East,Lisa C.
+ORD-1120,2024-03-25,Novex Industries,purchase@novex.com,Antivirus 1yr,Software,11,59.99,659.89,South,Anna K.
+ORD-1534,2024-03-25,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,13,49,637,West,Tom B.
+ORD-1152,2024-03-26,Global Tech,info@globaltech.com,Usb-C Hub,Electronics,5,49.99,249.95,North,Lisa C.
+ORD-1498,2024-03-27,Sunset Catering,orders@sunsetcatering.com,Mechanical Keyboard,Electronics,11,79.99,879.89,South,Mike R.
+ORD-1839,2024-03-27,Peak Solutions,info@peaksol.com,Notebook Set,Office Supplies,6,18,108,East,Tom B.
+ORD-1870,2024-03-27,Metro Office Co,buy@metrooffice.com,Monitor Arm,Furniture,5,89.99,449.95,West,Mike R.
+ORD-1470,2024-03-28,Novex Industries,purchase@novex.com,Pdf Editor,Software,3,79,237,North,Mike R.
+ORD-1584,2024-03-28,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,14,8.99,125.86,North,Sarah J.
+ORD-1836,2024-03-28,Peak Solutions,info@peaksol.com,Stapler Pro,Office Supplies,10,22.5,225,North,Mike R.
+ORD-1939,2024-03-28,Delta Supplies,orders@deltasupplies.com,Monitor Arm,Furniture,14,89.99,1259.86,West,Anna K.
+ORD-1726,2024-03-29,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,6,18,108,North,Mike R.
+ORD-1837,2024-03-29,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,1,325,325,South,Lisa C.
+ORD-1767,2024-03-30,Novex Industries,purchase@novex.com,Antivirus 1yr,Software,15,59.99,899.85,North,Tom B.
+ORD-1821,2024-03-30,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,1,325,325,East,Anna K.
+ORD-1925,2024-03-30,Rivera & Sons,contact@riverasons.com,Usb-C Hub,Electronics,14,49.99,699.86,South,Lisa C.
+ORD-1985,2024-03-30,Global Tech,info@globaltech.com,Desk Organizer,Office Supplies,1,12.5,12.5,West,Mike R.
+ORD-1339,2024-03-31,Bright Horizons,hello@brighthorizons.com,Mechanical Keyboard,Electronics,11,79.99,879.89,South,Lisa C.
+ORD-1647,2024-03-31,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,2,89.99,179.98,East,Tom B.
+ORD-1133,2024-04-01,Global Tech,info@globaltech.com,"Monitor 27""",Electronics,3,220,660,South,Mike R.
+ORD-1240,2024-04-01,Delta Supplies,orders@deltasupplies.com,Desk Lamp,Office Supplies,6,34.99,209.94,North,Mike R.
+ORD-1627,2024-04-01,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,8,59.99,479.92,North,Tom B.
+ORD-1864,2024-04-01,Sunshine Bakery,orders@sunshine.com,Standing Desk,Furniture,2,549,1098,West,Lisa C.
+ORD-1244,2024-04-02,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,10,49,490,North,Lisa C.
+ORD-1689,2024-04-02,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,1,549,549,West,Mike R.
+ORD-1032,2024-04-03,Acme Corp,billing@acme.com,Standing Desk,Furniture,6,549,3294,South,Tom B.
+ORD-1037,2024-04-03,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,13,8.99,116.87,East,Lisa C.
+ORD-1256,2024-04-03,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,12,34.99,419.88,South,Mike R.
+ORD-1360,2024-04-03,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,4,18,72,North,Sarah J.
+ORD-1484,2024-04-03,Sunset Catering,orders@sunsetcatering.com,Wireless Mouse,Electronics,14,29.99,419.86,West,Sarah J.
+ORD-1117,2024-04-04,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,15,79,1185,South,Sarah J.
+ORD-1296,2024-04-04,Acme Corp,billing@acme.com,Monitor Arm,Furniture,10,89.99,899.9,South,Anna K.
+ORD-1530,2024-04-04,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,6,79,474,East,Sarah J.
+ORD-1027,2024-04-05,Sunshine Bakery,orders@sunshine.com,Wireless Mouse,Electronics,13,29.99,389.87,West,Mike R.
+ORD-1151,2024-04-05,Novex Industries,purchase@novex.com,Vpn Annual,Software,1,49,49,East,Sarah J.
+ORD-1259,2024-04-05,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,5,325,1625,West,Anna K.
+ORD-1270,2024-04-05,Global Tech,info@globaltech.com,Standing Desk,Furniture,3,549,1647,West,Sarah J.
+ORD-1548,2024-04-05,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,12,12.5,150,South,Sarah J.
+ORD-1357,2024-04-06,Sunset Catering,orders@sunsetcatering.com,Wireless Mouse,Electronics,7,29.99,209.93,South,Lisa C.
+ORD-1378,2024-04-06,Global Tech,info@globaltech.com,Vpn Annual,Software,6,49,294,South,Sarah J.
+ORD-1587,2024-04-06,Sunset Catering,orders@sunsetcatering.com,Webcam Hd,Electronics,4,35,140,East,Lisa C.
+ORD-1588,2024-04-06,Global Tech,info@globaltech.com,Standing Desk,Furniture,3,549,1647,East,Anna K.
+ORD-1731,2024-04-06,Metro Office Co,buy@metrooffice.com,Pdf Editor,Software,4,79,316,West,Anna K.
+ORD-1280,2024-04-07,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,11,22.5,247.5,South,Anna K.
+ORD-1465,2024-04-07,Greenleaf Ltd,contact@greenleaf.com,Stapler Pro,Office Supplies,15,22.5,337.5,East,Sarah J.
+ORD-1493,2024-04-08,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,11,79,869,North,Mike R.
+ORD-1688,2024-04-08,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,10,549,5490,South,Sarah J.
+ORD-1235,2024-04-09,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,14,22.5,315,North,Anna K.
+ORD-1912,2024-04-09,Bright Horizons,hello@brighthorizons.com,Monitor Arm,Furniture,6,89.99,539.94,North,Tom B.
+ORD-1439,2024-04-10,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,3,325,975,East,Sarah J.
+ORD-1599,2024-04-10,Peak Solutions,info@peaksol.com,Webcam Hd,Electronics,4,35,140,North,Tom B.
+ORD-1612,2024-04-10,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,11,79,869,East,Mike R.
+ORD-1786,2024-04-10,Delta Supplies,orders@deltasupplies.com,Desk Organizer,Office Supplies,12,12.5,150,North,Mike R.
+ORD-1581,2024-04-11,Rivera & Sons,contact@riverasons.com,Mechanical Keyboard,Electronics,8,79.99,639.92,North,Lisa C.
+ORD-1684,2024-04-11,Bright Horizons,hello@brighthorizons.com,Pdf Editor,Software,1,79,79,West,Lisa C.
+ORD-1278,2024-04-13,Global Tech,info@globaltech.com,Antivirus 1yr,Software,2,59.99,119.98,North,Anna K.
+ORD-1541,2024-04-13,Sunshine Bakery,orders@sunshine.com,Vpn Annual,Software,15,49,735,West,Mike R.
+ORD-1971,2024-04-13,Acme Corp,billing@acme.com,Standing Desk,Furniture,4,549,2196,West,Sarah J.
+ORD-1224,2024-04-14,Bright Horizons,hello@brighthorizons.com,Webcam Hd,Electronics,14,35,490,West,Sarah J.
+ORD-1538,2024-04-14,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,8,59.99,479.92,South,Tom B.
+ORD-1835,2024-04-14,Acme Corp,billing@acme.com,Wireless Mouse,Electronics,2,29.99,59.98,East,Anna K.
+ORD-1895,2024-04-14,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,7,89.99,629.93,South,Sarah J.
+ORD-1163,2024-04-15,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,5,34.99,174.95,North,Mike R.
+ORD-1697,2024-04-15,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,4,79,316,West,Mike R.
+ORD-1737,2024-04-15,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,13,8.99,116.87,East,Sarah J.
+ORD-1043,2024-04-16,Metro Office Co,buy@metrooffice.com,Pen Pack,Office Supplies,11,8.99,98.89,North,Mike R.
+ORD-1536,2024-04-17,Bright Horizons,hello@brighthorizons.com,Wireless Mouse,Electronics,11,29.99,329.89,East,Anna K.
+ORD-1659,2024-04-17,Novex Industries,purchase@novex.com,Notebook Set,Office Supplies,9,18,162,West,Sarah J.
+ORD-1662,2024-04-17,Sunshine Bakery,orders@sunshine.com,Usb-C Hub,Electronics,4,49.99,199.96,North,Anna K.
+ORD-1794,2024-04-17,Novex Industries,purchase@novex.com,Pen Pack,Office Supplies,11,8.99,98.89,West,Lisa C.
+ORD-1973,2024-04-17,Metro Office Co,buy@metrooffice.com,Antivirus 1yr,Software,10,59.99,599.9,North,Mike R.
+ORD-1135,2024-04-18,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,1,79,79,North,Lisa C.
+ORD-1553,2024-04-18,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,4,35,140,South,Sarah J.
+ORD-1804,2024-04-18,Sunshine Bakery,orders@sunshine.com,Laptop Stand,Electronics,12,45,540,East,Lisa C.
+ORD-1761,2024-04-19,Global Tech,info@globaltech.com,Antivirus 1yr,Software,15,59.99,899.85,South,Lisa C.
+ORD-1710,2024-04-19,Blue Ridge Llc,admin@blueridge.com,Standing Desk,Furniture,13,549,7137,West,Sarah J.
+ORD-1073,2024-04-20,Bright Horizons,hello@brighthorizons.com,Webcam Hd,Electronics,7,35,245,North,Lisa C.
+ORD-1351,2024-04-20,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,5,79,395,North,Tom B.
+ORD-1365,2024-04-20,Greenleaf Ltd,contact@greenleaf.com,Vpn Annual,Software,7,49,343,West,Lisa C.
+ORD-1435,2024-04-20,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,2,59.99,119.98,East,Sarah J.
+ORD-1820,2024-04-20,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,1,59.99,59.99,South,Anna K.
+ORD-1157,2024-04-21,Peak Solutions,info@peaksol.com,Desk Lamp,Office Supplies,5,34.99,174.95,East,Lisa C.
+ORD-1480,2024-04-21,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,8,89.99,719.92,North,Anna K.
+ORD-1522,2024-04-21,Blue Ridge Llc,admin@blueridge.com,Mechanical Keyboard,Electronics,15,79.99,1199.85,West,Sarah J.
+ORD-1058,2024-04-22,Metro Office Co,buy@metrooffice.com,Stapler Pro,Office Supplies,5,22.5,112.5,South,Sarah J.
+ORD-1457,2024-04-22,Acme Corp,billing@acme.com,Notebook Set,Office Supplies,8,18,144,South,Mike R.
+ORD-1852,2024-04-22,Acme Corp,billing@acme.com,Webcam Hd,Electronics,1,35,35,South,Mike R.
+ORD-1198,2024-04-23,Metro Office Co,buy@metrooffice.com,Notebook Set,Office Supplies,5,18,90,West,Anna K.
+ORD-1022,2024-04-24,Acme Corp,billing@acme.com,Desk Lamp,Office Supplies,6,34.99,209.94,East,Sarah J.
+ORD-1123,2024-04-24,Acme Corp,billing@acme.com,Webcam Hd,Electronics,8,35,280,West,Anna K.
+ORD-1218,2024-04-24,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,13,89.99,1169.87,West,Lisa C.
+ORD-1604,2024-04-24,Metro Office Co,buy@metrooffice.com,Pen Pack,Office Supplies,11,8.99,98.89,East,Sarah J.
+ORD-1720,2024-04-24,Delta Supplies,orders@deltasupplies.com,Monitor Arm,Furniture,8,89.99,719.92,South,Anna K.
+ORD-1729,2024-04-25,Metro Office Co,buy@metrooffice.com,Laptop Stand,Electronics,2,45,90,West,Lisa C.
+ORD-1168,2024-04-26,Greenleaf Ltd,contact@greenleaf.com,Wireless Mouse,Electronics,14,29.99,419.86,North,Mike R.
+ORD-1426,2024-04-26,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,15,79,1185,West,Tom B.
+ORD-1789,2024-04-26,Delta Supplies,orders@deltasupplies.com,Desk Organizer,Office Supplies,12,12.5,150,East,Tom B.
+ORD-1815,2024-04-26,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,2,549,1098,East,Lisa C.
+ORD-1005,2024-04-27,Acme Corp,billing@acme.com,Standing Desk,Furniture,5,549,2745,North,Mike R.
+ORD-1842,2024-04-27,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,9,325,2925,North,Mike R.
+ORD-1419,2024-04-28,Greenleaf Ltd,contact@greenleaf.com,"Monitor 27""",Electronics,1,220,220,West,Anna K.
+ORD-1610,2024-04-28,Global Tech,info@globaltech.com,Mechanical Keyboard,Electronics,15,79.99,1199.85,West,Lisa C.
+ORD-1891,2024-04-28,Peak Solutions,info@peaksol.com,Usb-C Hub,Electronics,8,49.99,399.92,West,Anna K.
+ORD-1171,2024-04-29,Bright Horizons,hello@brighthorizons.com,Monitor Arm,Furniture,14,89.99,1259.86,North,Lisa C.
+ORD-1447,2024-04-29,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,5,325,1625,West,Anna K.
+ORD-1029,2024-04-30,Blue Ridge Llc,admin@blueridge.com,Standing Desk,Furniture,15,549,8235,North,Mike R.
+ORD-1054,2024-04-30,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,12,325,3900,North,Tom B.
+ORD-1077,2024-04-30,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,4,8.99,35.96,South,Anna K.
+ORD-1323,2024-04-30,Peak Solutions,info@peaksol.com,Vpn Annual,Software,6,49,294,West,Tom B.
+ORD-1531,2024-05-01,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,10,325,3250,West,Sarah J.
+ORD-1936,2024-05-01,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,8,325,2600,West,Anna K.
+ORD-1770,2024-05-01,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,5,49,245,East,Tom B.
+ORD-1954,2024-05-01,Peak Solutions,info@peaksol.com,Pdf Editor,Software,1,79,79,North,Anna K.
+ORD-1016,2024-05-02,Blue Ridge Llc,admin@blueridge.com,Antivirus 1yr,Software,11,59.99,659.89,East,Tom B.
+ORD-1252,2024-05-02,Metro Office Co,buy@metrooffice.com,Usb-C Hub,Electronics,2,49.99,99.98,East,Tom B.
+ORD-1473,2024-05-02,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,9,89.99,809.91,East,Sarah J.
+ORD-1492,2024-05-02,Greenleaf Ltd,contact@greenleaf.com,Vpn Annual,Software,7,49,343,East,Tom B.
+ORD-1124,2024-05-03,Rivera & Sons,contact@riverasons.com,Wireless Mouse,Electronics,10,29.99,299.9,North,Tom B.
+ORD-1197,2024-05-03,Novex Industries,purchase@novex.com,Vpn Annual,Software,8,49,392,South,Tom B.
+ORD-1570,2024-05-03,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,10,59.99,599.9,West,Sarah J.
+ORD-1733,2024-05-03,Novex Industries,purchase@novex.com,Standing Desk,Furniture,7,549,3843,North,Anna K.
+ORD-1739,2024-05-03,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,7,49,343,West,Sarah J.
+ORD-1766,2024-05-03,Peak Solutions,info@peaksol.com,Standing Desk,Furniture,12,549,6588,South,Tom B.
+ORD-1911,2024-05-03,Bright Horizons,hello@brighthorizons.com,Pen Pack,Office Supplies,6,8.99,53.94,South,Tom B.
+ORD-1913,2024-05-03,Delta Supplies,orders@deltasupplies.com,Laptop Stand,Electronics,11,45,495,South,Tom B.
+ORD-1783,2024-05-04,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,2,8.99,17.98,South,Anna K.
+ORD-1166,2024-05-05,Global Tech,info@globaltech.com,Antivirus 1yr,Software,8,59.99,479.92,North,Lisa C.
+ORD-1299,2024-05-05,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,1,49,49,West,Anna K.
+ORD-1438,2024-05-05,Greenleaf Ltd,contact@greenleaf.com,Antivirus 1yr,Software,13,59.99,779.87,East,Tom B.
+ORD-1442,2024-05-05,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,8,49,392,North,Sarah J.
+ORD-1507,2024-05-05,Acme Corp,billing@acme.com,Usb-C Hub,Electronics,7,49.99,349.93,West,Lisa C.
+ORD-1747,2024-05-05,Bright Horizons,hello@brighthorizons.com,Pen Pack,Office Supplies,1,8.99,8.99,West,Mike R.
+ORD-1292,2024-05-06,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,8,549,4392,West,Mike R.
+ORD-1592,2024-05-06,Greenleaf Ltd,contact@greenleaf.com,Notebook Set,Office Supplies,6,18,108,North,Mike R.
+ORD-1274,2024-05-07,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,11,59.99,659.89,East,Sarah J.
+ORD-1527,2024-05-07,Blue Ridge Llc,admin@blueridge.com,Webcam Hd,Electronics,12,35,420,South,Tom B.
+ORD-1699,2024-05-07,Peak Solutions,info@peaksol.com,Pdf Editor,Software,13,79,1027,North,Sarah J.
+ORD-1451,2024-05-08,Rivera & Sons,contact@riverasons.com,Mechanical Keyboard,Electronics,4,79.99,319.96,East,Sarah J.
+ORD-1577,2024-05-08,Sunshine Bakery,orders@sunshine.com,Pen Pack,Office Supplies,7,8.99,62.93,North,Anna K.
+ORD-1009,2024-05-09,Global Tech,info@globaltech.com,Notebook Set,Office Supplies,11,18,198,West,Anna K.
+ORD-1833,2024-05-09,Global Tech,info@globaltech.com,Vpn Annual,Software,7,49,343,North,Sarah J.
+ORD-1848,2024-05-09,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,12,79,948,West,Lisa C.
+ORD-1988,2024-05-09,Acme Corp,billing@acme.com,Laptop Stand,Electronics,11,45,495,East,Anna K.
+ORD-1308,2024-05-10,Global Tech,info@globaltech.com,Standing Desk,Furniture,9,549,4941,East,Sarah J.
+ORD-1490,2024-05-10,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,2,12.5,25,North,Tom B.
+ORD-1764,2024-05-12,Greenleaf Ltd,contact@greenleaf.com,Desk Organizer,Office Supplies,11,12.5,137.5,North,Sarah J.
+ORD-1856,2024-05-12,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,7,325,2275,West,Tom B.
+ORD-1754,2024-05-13,Peak Solutions,info@peaksol.com,Notebook Set,Office Supplies,6,18,108,North,Lisa C.
+ORD-1782,2024-05-13,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,5,34.99,174.95,East,Sarah J.
+ORD-1802,2024-05-13,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,11,12.5,137.5,North,Sarah J.
+ORD-1952,2024-05-13,Rivera & Sons,contact@riverasons.com,Usb-C Hub,Electronics,5,49.99,249.95,North,Anna K.
+ORD-1149,2024-05-14,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,11,49,539,East,Anna K.
+ORD-1559,2024-05-14,Metro Office Co,buy@metrooffice.com,"Monitor 27""",Electronics,11,220,2420,North,Mike R.
+ORD-1589,2024-05-15,Global Tech,info@globaltech.com,Webcam Hd,Electronics,7,35,245,South,Mike R.
+ORD-1853,2024-05-15,Greenleaf Ltd,contact@greenleaf.com,Antivirus 1yr,Software,4,59.99,239.96,West,Mike R.
+ORD-1494,2024-05-16,Acme Corp,billing@acme.com,Wireless Mouse,Electronics,4,29.99,119.96,North,Tom B.
+ORD-1811,2024-05-16,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,4,325,1300,West,Sarah J.
+ORD-1169,2024-05-18,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,9,325,2925,North,Mike R.
+ORD-1562,2024-05-18,Blue Ridge Llc,admin@blueridge.com,Desk Organizer,Office Supplies,3,12.5,37.5,North,Lisa C.
+ORD-1623,2024-05-18,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,14,79,1106,North,Sarah J.
+ORD-1705,2024-05-18,Bright Horizons,hello@brighthorizons.com,Wireless Mouse,Electronics,8,29.99,239.92,South,Mike R.
+ORD-1791,2024-05-18,Novex Industries,purchase@novex.com,Desk Organizer,Office Supplies,8,12.5,100,West,Mike R.
+ORD-1311,2024-05-19,Peak Solutions,info@peaksol.com,Mechanical Keyboard,Electronics,15,79.99,1199.85,South,Lisa C.
+ORD-1844,2024-05-19,Bright Horizons,hello@brighthorizons.com,"Monitor 27""",Electronics,9,220,1980,North,Tom B.
+ORD-1528,2024-05-20,Rivera & Sons,contact@riverasons.com,Desk Lamp,Office Supplies,1,34.99,34.99,South,Sarah J.
+ORD-1608,2024-05-21,Acme Corp,billing@acme.com,Pen Pack,Office Supplies,9,8.99,80.91,South,Lisa C.
+ORD-1643,2024-05-21,Sunset Catering,orders@sunsetcatering.com,Laptop Stand,Electronics,12,45,540,East,Sarah J.
+ORD-1983,2024-05-21,Global Tech,info@globaltech.com,Antivirus 1yr,Software,7,59.99,419.93,North,Anna K.
+ORD-1011,2024-05-22,Metro Office Co,buy@metrooffice.com,Antivirus 1yr,Software,9,59.99,539.91,South,Anna K.
+ORD-1111,2024-05-22,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,5,325,1625,East,Mike R.
+ORD-1165,2024-05-22,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,9,325,2925,South,Mike R.
+ORD-1704,2024-05-22,Delta Supplies,orders@deltasupplies.com,Laptop Stand,Electronics,4,45,180,East,Tom B.
+ORD-1178,2024-05-23,Sunset Catering,orders@sunsetcatering.com,Desk Organizer,Office Supplies,10,12.5,125,South,Lisa C.
+ORD-1499,2024-05-23,Rivera & Sons,contact@riverasons.com,Monitor Arm,Furniture,8,89.99,719.92,North,Mike R.
+ORD-1622,2024-05-23,Global Tech,info@globaltech.com,Notebook Set,Office Supplies,14,18,252,South,Lisa C.
+ORD-1210,2024-05-24,Global Tech,info@globaltech.com,Mechanical Keyboard,Electronics,4,79.99,319.96,South,Lisa C.
+ORD-1129,2024-05-24,Peak Solutions,info@peaksol.com,Vpn Annual,Software,11,49,539,East,Lisa C.
+ORD-1081,2024-05-25,Blue Ridge Llc,admin@blueridge.com,Pen Pack,Office Supplies,2,8.99,17.98,South,Lisa C.
+ORD-1269,2024-05-25,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,4,549,2196,North,Mike R.
+ORD-1347,2024-05-25,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,6,79,474,West,Sarah J.
+ORD-1487,2024-05-25,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,6,59.99,359.94,South,Tom B.
+ORD-1580,2024-05-25,Delta Supplies,orders@deltasupplies.com,Stapler Pro,Office Supplies,4,22.5,90,North,Anna K.
+ORD-1681,2024-05-25,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,14,49,686,West,Sarah J.
+ORD-1014,2024-05-26,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,4,59.99,239.96,East,Mike R.
+ORD-1289,2024-05-27,Acme Corp,billing@acme.com,Monitor Arm,Furniture,13,89.99,1169.87,North,Lisa C.
+ORD-1420,2024-05-27,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,6,34.99,209.94,West,Mike R.
+ORD-1472,2024-05-27,Metro Office Co,buy@metrooffice.com,Pdf Editor,Software,12,79,948,East,Tom B.
+ORD-1597,2024-05-27,Global Tech,info@globaltech.com,Mechanical Keyboard,Electronics,15,79.99,1199.85,South,Tom B.
+ORD-1615,2024-05-27,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,15,22.5,337.5,East,Tom B.
+ORD-1413,2024-05-28,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,15,59.99,899.85,West,Lisa C.
+ORD-1923,2024-05-28,Blue Ridge Llc,admin@blueridge.com,Desk Organizer,Office Supplies,12,12.5,150,West,Lisa C.
+ORD-1476,2024-05-30,Global Tech,info@globaltech.com,Antivirus 1yr,Software,2,59.99,119.98,North,Lisa C.
+ORD-1910,2024-05-30,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,2,45,90,West,Tom B.
+ORD-1463,2024-05-31,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,10,325,3250,North,Tom B.
+ORD-1735,2024-05-31,Peak Solutions,info@peaksol.com,Pdf Editor,Software,8,79,632,East,Mike R.
+ORD-1140,2024-06-03,Blue Ridge Llc,admin@blueridge.com,Antivirus 1yr,Software,2,59.99,119.98,South,Tom B.
+ORD-1177,2024-06-03,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,1,325,325,West,Sarah J.
+ORD-1422,2024-06-04,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,1,22.5,22.5,North,Lisa C.
+ORD-1529,2024-06-04,Global Tech,info@globaltech.com,Standing Desk,Furniture,5,549,2745,East,Tom B.
+ORD-1535,2024-06-04,Rivera & Sons,contact@riverasons.com,Monitor Arm,Furniture,5,89.99,449.95,North,Mike R.
+ORD-1594,2024-06-04,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,8,549,4392,East,Anna K.
+ORD-1826,2024-06-04,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,14,325,4550,West,Mike R.
+ORD-1385,2024-06-05,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,1,325,325,East,Sarah J.
+ORD-1203,2024-06-06,Peak Solutions,info@peaksol.com,Standing Desk,Furniture,5,549,2745,East,Tom B.
+ORD-1760,2024-06-06,Delta Supplies,orders@deltasupplies.com,Pen Pack,Office Supplies,12,8.99,107.88,North,Anna K.
+ORD-1776,2024-06-06,Global Tech,info@globaltech.com,Monitor Arm,Furniture,15,89.99,1349.85,East,Anna K.
+ORD-1485,2024-06-08,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,7,18,126,South,Anna K.
+ORD-1876,2024-06-08,Bright Horizons,hello@brighthorizons.com,Pdf Editor,Software,1,79,79,North,Sarah J.
+ORD-1242,2024-06-09,Sunset Catering,orders@sunsetcatering.com,"Monitor 27""",Electronics,15,220,3300,South,Tom B.
+ORD-1333,2024-06-09,Bright Horizons,hello@brighthorizons.com,Laptop Stand,Electronics,1,45,45,North,Sarah J.
+ORD-1392,2024-06-09,Delta Supplies,orders@deltasupplies.com,Ergonomic Chair,Furniture,15,325,4875,West,Lisa C.
+ORD-1255,2024-06-10,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,9,89.99,809.91,North,Lisa C.
+ORD-1502,2024-06-10,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,8,325,2600,West,Mike R.
+ORD-1532,2024-06-10,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,12,549,6588,West,Mike R.
+ORD-1847,2024-06-10,Sunset Catering,orders@sunsetcatering.com,Desk Organizer,Office Supplies,4,12.5,50,West,Mike R.
+ORD-1867,2024-06-10,Delta Supplies,orders@deltasupplies.com,Desk Lamp,Office Supplies,5,34.99,174.95000000000002,East,Sarah J.
+ORD-1295,2024-06-11,Global Tech,info@globaltech.com,Usb-C Hub,Electronics,6,49.99,299.94,South,Sarah J.
+ORD-1633,2024-06-11,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,5,22.5,112.5,South,Lisa C.
+ORD-1545,2024-06-12,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,12,79,948,West,Sarah J.
+ORD-1114,2024-06-13,Blue Ridge Llc,admin@blueridge.com,Wireless Mouse,Electronics,11,29.99,329.89,South,Anna K.
+ORD-1195,2024-06-13,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,11,49,539,North,Mike R.
+ORD-1343,2024-06-13,Rivera & Sons,contact@riverasons.com,"Monitor 27""",Electronics,3,220,660,East,Sarah J.
+ORD-1932,2024-06-13,Acme Corp,billing@acme.com,Pdf Editor,Software,13,79,1027,South,Anna K.
+ORD-1386,2024-06-14,Delta Supplies,orders@deltasupplies.com,Mechanical Keyboard,Electronics,2,79.99,159.98,South,Lisa C.
+ORD-1410,2024-06-14,Acme Corp,billing@acme.com,"Monitor 27""",Electronics,10,220,2200,West,Sarah J.
+ORD-1674,2024-06-14,Greenleaf Ltd,contact@greenleaf.com,Laptop Stand,Electronics,6,45,270,North,Mike R.
+ORD-1901,2024-06-14,Sunshine Bakery,orders@sunshine.com,Wireless Mouse,Electronics,12,29.99,359.88,South,Tom B.
+ORD-1711,2024-06-15,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,10,49,490,West,Lisa C.
+ORD-1914,2024-06-16,Peak Solutions,info@peaksol.com,Mechanical Keyboard,Electronics,9,79.99,719.91,West,Anna K.
+ORD-1047,2024-06-17,Peak Solutions,info@peaksol.com,Pdf Editor,Software,11,79,869,West,Anna K.
+ORD-1231,2024-06-18,Acme Corp,billing@acme.com,Wireless Mouse,Electronics,1,29.99,29.99,South,Lisa C.
+ORD-1515,2024-06-19,Blue Ridge Llc,admin@blueridge.com,Notebook Set,Office Supplies,5,18,90,North,Sarah J.
+ORD-1603,2024-06-19,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,10,35,350,West,Lisa C.
+ORD-1878,2024-06-19,Novex Industries,purchase@novex.com,Usb-C Hub,Electronics,10,49.99,499.9,South,Anna K.
+ORD-1986,2024-06-19,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,7,22.5,157.5,South,Tom B.
+ORD-1656,2024-06-21,Sunshine Bakery,orders@sunshine.com,Webcam Hd,Electronics,12,35,420,West,Sarah J.
+ORD-1068,2024-06-22,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,12,79,948,North,Lisa C.
+ORD-1187,2024-06-22,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,1,49,49,West,Mike R.
+ORD-1182,2024-06-23,Greenleaf Ltd,contact@greenleaf.com,Pen Pack,Office Supplies,1,8.99,8.99,North,Mike R.
+ORD-1950,2024-06-23,Peak Solutions,info@peaksol.com,Pen Pack,Office Supplies,2,8.99,17.98,East,Mike R.
+ORD-1147,2024-06-24,Metro Office Co,buy@metrooffice.com,Laptop Stand,Electronics,13,45,585,South,Mike R.
+ORD-1330,2024-06-24,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,15,22.5,337.5,South,Tom B.
+ORD-1563,2024-06-24,Blue Ridge Llc,admin@blueridge.com,Notebook Set,Office Supplies,6,18,108,West,Tom B.
+ORD-1830,2024-06-24,Bright Horizons,hello@brighthorizons.com,Webcam Hd,Electronics,11,35,385,East,Lisa C.
+ORD-1917,2024-06-24,Acme Corp,billing@acme.com,Desk Lamp,Office Supplies,4,34.99,139.96,South,Mike R.
+ORD-1288,2024-06-25,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,3,35,105,East,Anna K.
+ORD-1253,2024-06-26,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,4,22.5,90,West,Tom B.
+ORD-1640,2024-06-26,Blue Ridge Llc,admin@blueridge.com,Desk Organizer,Office Supplies,5,12.5,62.5,East,Tom B.
+ORD-1497,2024-06-27,Peak Solutions,info@peaksol.com,Vpn Annual,Software,14,49,686,North,Tom B.
+ORD-1672,2024-06-27,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,11,49,539,South,Sarah J.
+ORD-1033,2024-06-28,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,1,45,45,North,Mike R.
+ORD-1247,2024-06-28,Delta Supplies,orders@deltasupplies.com,Mechanical Keyboard,Electronics,3,79.99,239.97,East,Tom B.
+ORD-1431,2024-06-28,Blue Ridge Llc,admin@blueridge.com,Monitor Arm,Furniture,13,89.99,1169.87,South,Tom B.
+ORD-1443,2024-06-28,Metro Office Co,buy@metrooffice.com,Stapler Pro,Office Supplies,14,22.5,315,East,Sarah J.
+ORD-1745,2024-06-28,Novex Industries,purchase@novex.com,Pdf Editor,Software,13,79,1027,South,Mike R.
+ORD-1977,2024-06-28,Greenleaf Ltd,contact@greenleaf.com,Antivirus 1yr,Software,13,59.99,779.87,North,Mike R.
+ORD-1039,2024-06-29,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,5,79,395,East,Mike R.
+ORD-1094,2024-06-29,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,11,79,869,North,Sarah J.
+ORD-1356,2024-06-29,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,1,79,79,North,Lisa C.
+ORD-1619,2024-06-29,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,15,549,8235,North,Mike R.
+ORD-1743,2024-06-29,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,13,549,7137,North,Lisa C.
+ORD-1872,2024-06-29,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,9,59.99,539.91,East,Sarah J.
+ORD-1310,2024-06-30,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,14,8.99,125.86,North,Lisa C.
+ORD-1537,2024-07-01,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,5,325,1625,North,Anna K.
+ORD-1554,2024-07-01,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,4,49,196,East,Tom B.
+ORD-1801,2024-07-01,Novex Industries,purchase@novex.com,Mechanical Keyboard,Electronics,6,79.99,479.94,North,Tom B.
+ORD-1464,2024-07-02,Global Tech,info@globaltech.com,Monitor Arm,Furniture,9,89.99,809.91,North,Lisa C.
+ORD-1935,2024-07-02,Greenleaf Ltd,contact@greenleaf.com,Notebook Set,Office Supplies,6,18,108,West,Sarah J.
+ORD-1273,2024-07-03,Acme Corp,billing@acme.com,Desk Organizer,Office Supplies,4,12.5,50,West,Lisa C.
+ORD-1556,2024-07-03,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,15,59.99,899.85,West,Mike R.
+ORD-1613,2024-07-03,Peak Solutions,info@peaksol.com,Webcam Hd,Electronics,3,35,105,West,Mike R.
+ORD-1806,2024-07-03,Sunset Catering,orders@sunsetcatering.com,Laptop Stand,Electronics,11,45,495,South,Anna K.
+ORD-1095,2024-07-04,Peak Solutions,info@peaksol.com,"Monitor 27""",Electronics,3,220,660,West,Lisa C.
+ORD-1957,2024-07-05,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,9,325,2925,South,Lisa C.
+ORD-1164,2024-07-06,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,13,34.99,454.87,North,Sarah J.
+ORD-1170,2024-07-07,Rivera & Sons,contact@riverasons.com,Monitor Arm,Furniture,13,89.99,1169.87,East,Anna K.
+ORD-1496,2024-07-07,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,7,49,343,South,Sarah J.
+ORD-1680,2024-07-07,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,14,89.99,1259.86,North,Anna K.
+ORD-1434,2024-07-08,Delta Supplies,orders@deltasupplies.com,Ergonomic Chair,Furniture,9,325,2925,South,Sarah J.
+ORD-1578,2024-07-08,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,15,549,8235,North,Tom B.
+ORD-1829,2024-07-08,Blue Ridge Llc,admin@blueridge.com,Pdf Editor,Software,8,79,632,East,Lisa C.
+ORD-1069,2024-07-09,Sunshine Bakery,orders@sunshine.com,"Monitor 27""",Electronics,9,220,1980,East,Sarah J.
+ORD-1795,2024-07-09,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,6,59.99,359.94,North,Tom B.
+ORD-1958,2024-07-09,Metro Office Co,buy@metrooffice.com,Stapler Pro,Office Supplies,11,22.5,247.5,South,Sarah J.
+ORD-1090,2024-07-10,Blue Ridge Llc,admin@blueridge.com,Webcam Hd,Electronics,13,35,455,North,Lisa C.
+ORD-1467,2024-07-10,Sunshine Bakery,orders@sunshine.com,Pen Pack,Office Supplies,12,8.99,107.88,North,Tom B.
+ORD-1713,2024-07-10,Acme Corp,billing@acme.com,Standing Desk,Furniture,13,549,7137,West,Lisa C.
+ORD-1730,2024-07-10,Metro Office Co,buy@metrooffice.com,Stapler Pro,Office Supplies,12,22.5,270,North,Tom B.
+ORD-1282,2024-07-11,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,8,549,4392,West,Tom B.
+ORD-1822,2024-07-11,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,4,325,1300,East,Anna K.
+ORD-1097,2024-07-12,Novex Industries,purchase@novex.com,"Monitor 27""",Electronics,9,220,1980,East,Lisa C.
+ORD-1452,2024-07-12,Novex Industries,purchase@novex.com,Usb-C Hub,Electronics,1,49.99,49.99,West,Sarah J.
+ORD-1209,2024-07-13,Global Tech,info@globaltech.com,Standing Desk,Furniture,12,549,6588,South,Mike R.
+ORD-1902,2024-07-13,Metro Office Co,buy@metrooffice.com,"Monitor 27""",Electronics,11,220,2420,East,Lisa C.
+ORD-1946,2024-07-13,Global Tech,info@globaltech.com,Laptop Stand,Electronics,11,45,495,West,Tom B.
+ORD-1179,2024-07-14,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,9,549,4941,West,Lisa C.
+ORD-1229,2024-07-14,Global Tech,info@globaltech.com,Pdf Editor,Software,9,79,711,East,Sarah J.
+ORD-1381,2024-07-14,Delta Supplies,orders@deltasupplies.com,Ergonomic Chair,Furniture,5,325,1625,North,Sarah J.
+ORD-1654,2024-07-14,Acme Corp,billing@acme.com,Vpn Annual,Software,7,49,343,East,Anna K.
+ORD-1665,2024-07-14,Novex Industries,purchase@novex.com,Desk Organizer,Office Supplies,4,12.5,50,West,Lisa C.
+ORD-1948,2024-07-14,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,8,89.99,719.92,North,Sarah J.
+ORD-1964,2024-07-14,Metro Office Co,buy@metrooffice.com,Desk Organizer,Office Supplies,7,12.5,87.5,North,Anna K.
+ORD-1251,2024-07-15,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,10,89.99,899.9,North,Mike R.
+ORD-1488,2024-07-15,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,10,89.99,899.9,North,Tom B.
+ORD-1509,2024-07-15,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,10,79,790,South,Sarah J.
+ORD-1934,2024-07-15,Acme Corp,billing@acme.com,Stapler Pro,Office Supplies,12,22.5,270,North,Lisa C.
+ORD-1955,2024-07-15,Delta Supplies,orders@deltasupplies.com,Laptop Stand,Electronics,10,45,450,West,Anna K.
+ORD-1052,2024-07-16,Metro Office Co,buy@metrooffice.com,Desk Lamp,Office Supplies,1,34.99,34.99,South,Anna K.
+ORD-1446,2024-07-17,Sunshine Bakery,orders@sunshine.com,Wireless Mouse,Electronics,8,29.99,239.92,East,Mike R.
+ORD-1679,2024-07-17,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,7,325,2275,East,Lisa C.
+ORD-1030,2024-07-18,Delta Supplies,orders@deltasupplies.com,"Monitor 27""",Electronics,7,220,1540,West,Sarah J.
+ORD-1138,2024-07-18,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,2,325,650,North,Lisa C.
+ORD-1477,2024-07-18,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,1,549,549,North,Sarah J.
+ORD-1840,2024-07-18,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,7,549,3843,North,Tom B.
+ORD-1504,2024-07-19,Blue Ridge Llc,admin@blueridge.com,Desk Organizer,Office Supplies,9,12.5,112.5,West,Lisa C.
+ORD-1574,2024-07-19,Global Tech,info@globaltech.com,Antivirus 1yr,Software,7,59.99,419.93,North,Tom B.
+ORD-1591,2024-07-19,Peak Solutions,info@peaksol.com,Usb-C Hub,Electronics,12,49.99,599.88,East,Tom B.
+ORD-1605,2024-07-19,Acme Corp,billing@acme.com,Webcam Hd,Electronics,7,35,245,West,Mike R.
+ORD-1828,2024-07-19,Sunset Catering,orders@sunsetcatering.com,Notebook Set,Office Supplies,8,18,144,West,Mike R.
+ORD-1916,2024-07-19,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,15,325,4875,North,Sarah J.
+ORD-1609,2024-07-20,Global Tech,info@globaltech.com,Pdf Editor,Software,8,79,632,South,Anna K.
+ORD-1141,2024-07-21,Novex Industries,purchase@novex.com,Pdf Editor,Software,8,79,632,East,Tom B.
+ORD-1717,2024-07-21,Sunset Catering,orders@sunsetcatering.com,"Monitor 27""",Electronics,1,220,220,East,Sarah J.
+ORD-1261,2024-07-22,Global Tech,info@globaltech.com,Desk Organizer,Office Supplies,4,12.5,50,East,Tom B.
+ORD-1466,2024-07-22,Rivera & Sons,contact@riverasons.com,Notebook Set,Office Supplies,8,18,144,South,Anna K.
+ORD-1666,2024-07-22,Acme Corp,billing@acme.com,Standing Desk,Furniture,11,549,6039,North,Anna K.
+ORD-1658,2024-07-23,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,7,325,2275,East,Lisa C.
+ORD-1724,2024-07-23,Global Tech,info@globaltech.com,Standing Desk,Furniture,5,549,2745,North,Tom B.
+ORD-1213,2024-07-24,Peak Solutions,info@peaksol.com,Pdf Editor,Software,14,79,1106,West,Tom B.
+ORD-1156,2024-07-25,Bright Horizons,hello@brighthorizons.com,Monitor Arm,Furniture,15,89.99,1349.85,East,Tom B.
+ORD-1025,2024-07-26,Bright Horizons,hello@brighthorizons.com,Webcam Hd,Electronics,5,35,175,South,Tom B.
+ORD-1857,2024-07-26,Peak Solutions,info@peaksol.com,Pen Pack,Office Supplies,4,8.99,35.96,South,Lisa C.
+ORD-1928,2024-07-26,Delta Supplies,orders@deltasupplies.com,Monitor Arm,Furniture,11,89.99,989.89,South,Tom B.
+ORD-1922,2024-07-27,Acme Corp,billing@acme.com,Notebook Set,Office Supplies,11,18,198,East,Anna K.
+ORD-1474,2024-07-28,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,4,8.99,35.96,North,Tom B.
+ORD-1649,2024-07-28,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,4,22.5,90,North,Anna K.
+ORD-1763,2024-07-28,Greenleaf Ltd,contact@greenleaf.com,Mechanical Keyboard,Electronics,14,79.99,1119.86,West,Tom B.
+ORD-1940,2024-07-28,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,10,325,3250,West,Sarah J.
+ORD-1345,2024-07-29,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,12,22.5,270,North,Anna K.
+ORD-1021,2024-07-30,Acme Corp,billing@acme.com,Pen Pack,Office Supplies,13,8.99,116.87,West,Mike R.
+ORD-1249,2024-07-30,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,6,59.99,359.94,West,Lisa C.
+ORD-1264,2024-07-30,Sunshine Bakery,orders@sunshine.com,Desk Organizer,Office Supplies,3,12.5,37.5,South,Lisa C.
+ORD-1119,2024-07-31,Greenleaf Ltd,contact@greenleaf.com,Vpn Annual,Software,13,49,637,South,Mike R.
+ORD-1748,2024-07-31,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,3,34.99,104.97,West,Anna K.
+ORD-1127,2024-08-01,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,4,34.99,139.96,East,Mike R.
+ORD-1408,2024-08-01,Global Tech,info@globaltech.com,Desk Lamp,Office Supplies,11,34.99,384.89,North,Lisa C.
+ORD-1421,2024-08-01,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,13,549,7137,South,Anna K.
+ORD-1072,2024-08-02,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,6,325,1950,East,Lisa C.
+ORD-1348,2024-08-02,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,13,325,4225,North,Lisa C.
+ORD-1790,2024-08-02,Acme Corp,billing@acme.com,Pen Pack,Office Supplies,7,8.99,62.93,South,Tom B.
+ORD-1160,2024-08-04,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,2,34.99,69.98,South,Tom B.
+ORD-1521,2024-08-04,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,6,59.99,359.94,North,Lisa C.
+ORD-1391,2024-08-04,Metro Office Co,buy@metrooffice.com,Usb-C Hub,Electronics,3,49.99,149.97,East,Mike R.
+ORD-1397,2024-08-04,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,9,8.99,80.91,North,Lisa C.
+ORD-1412,2024-08-04,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,11,34.99,384.89,West,Sarah J.
+ORD-1486,2024-08-04,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,14,59.99,839.86,West,Sarah J.
+ORD-1960,2024-08-04,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,5,49,245,West,Mike R.
+ORD-1607,2024-08-05,Sunshine Bakery,orders@sunshine.com,Webcam Hd,Electronics,8,35,280,North,Anna K.
+ORD-1653,2024-08-05,Bright Horizons,hello@brighthorizons.com,Webcam Hd,Electronics,5,35,175,West,Mike R.
+ORD-1712,2024-08-05,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,1,79,79,West,Sarah J.
+ORD-1787,2024-08-05,Novex Industries,purchase@novex.com,Stapler Pro,Office Supplies,1,22.5,22.5,East,Lisa C.
+ORD-1388,2024-08-06,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,11,325,3575,East,Anna K.
+ORD-1449,2024-08-06,Metro Office Co,buy@metrooffice.com,Webcam Hd,Electronics,7,35,245,West,Lisa C.
+ORD-1919,2024-08-06,Acme Corp,billing@acme.com,Usb-C Hub,Electronics,14,49.99,699.86,North,Anna K.
+ORD-1929,2024-08-06,Global Tech,info@globaltech.com,Notebook Set,Office Supplies,13,18,234,East,Anna K.
+ORD-1579,2024-08-07,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,2,325,650,South,Lisa C.
+ORD-1818,2024-08-07,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,10,49,490,North,Tom B.
+ORD-1055,2024-08-08,Sunshine Bakery,orders@sunshine.com,Stapler Pro,Office Supplies,7,22.5,157.5,South,Mike R.
+ORD-1105,2024-08-08,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,6,89.99,539.94,West,Lisa C.
+ORD-1322,2024-08-10,Greenleaf Ltd,contact@greenleaf.com,Ergonomic Chair,Furniture,10,325,3250,North,Anna K.
+ORD-1427,2024-08-10,Acme Corp,billing@acme.com,Antivirus 1yr,Software,11,59.99,659.89,South,Anna K.
+ORD-1866,2024-08-10,Greenleaf Ltd,contact@greenleaf.com,Mechanical Keyboard,Electronics,12,79.99,959.88,East,Anna K.
+ORD-1664,2024-08-11,Bright Horizons,hello@brighthorizons.com,Pdf Editor,Software,12,79,948,East,Sarah J.
+ORD-1010,2024-08-12,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,4,59.99,239.96,South,Sarah J.
+ORD-1045,2024-08-12,Global Tech,info@globaltech.com,Vpn Annual,Software,5,49,245,West,Lisa C.
+ORD-1143,2024-08-12,Blue Ridge Llc,admin@blueridge.com,Mechanical Keyboard,Electronics,11,79.99,879.89,West,Mike R.
+ORD-1823,2024-08-12,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,7,89.99,629.93,North,Anna K.
+ORD-1994,2024-08-12,Acme Corp,billing@acme.com,Desk Organizer,Office Supplies,13,12.5,162.5,North,Lisa C.
+ORD-1778,2024-08-13,Delta Supplies,orders@deltasupplies.com,Desk Lamp,Office Supplies,15,34.99,524.85,North,Tom B.
+ORD-1933,2024-08-13,Sunset Catering,orders@sunsetcatering.com,Standing Desk,Furniture,3,549,1647,North,Tom B.
+ORD-1028,2024-08-14,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,8,49,392,South,Tom B.
+ORD-1084,2024-08-15,Delta Supplies,orders@deltasupplies.com,Monitor Arm,Furniture,13,89.99,1169.87,West,Mike R.
+ORD-1885,2024-08-15,Metro Office Co,buy@metrooffice.com,Notebook Set,Office Supplies,4,18,72,West,Lisa C.
+ORD-1185,2024-08-16,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,4,325,1300,North,Lisa C.
+ORD-1805,2024-08-16,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,3,59.99,179.97,North,Sarah J.
+ORD-1226,2024-08-17,Sunshine Bakery,orders@sunshine.com,Usb-C Hub,Electronics,3,49.99,149.97,North,Tom B.
+ORD-1361,2024-08-17,Bright Horizons,hello@brighthorizons.com,Stapler Pro,Office Supplies,5,22.5,112.5,North,Sarah J.
+ORD-1897,2024-08-17,Peak Solutions,info@peaksol.com,Stapler Pro,Office Supplies,14,22.5,315,West,Lisa C.
+ORD-1086,2024-08-18,Bright Horizons,hello@brighthorizons.com,Desk Lamp,Office Supplies,2,34.99,69.98,South,Tom B.
+ORD-1099,2024-08-18,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,15,325,4875,South,Mike R.
+ORD-1137,2024-08-18,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,9,8.99,80.91,West,Tom B.
+ORD-1436,2024-08-18,Metro Office Co,buy@metrooffice.com,Antivirus 1yr,Software,14,59.99,839.86,East,Sarah J.
+ORD-1887,2024-08-18,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,7,549,3843,East,Mike R.
+ORD-1409,2024-08-20,Metro Office Co,buy@metrooffice.com,Monitor Arm,Furniture,11,89.99,989.89,North,Lisa C.
+ORD-1812,2024-08-21,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,11,8.99,98.89,East,Anna K.
+ORD-1359,2024-08-22,Blue Ridge Llc,admin@blueridge.com,Pen Pack,Office Supplies,3,8.99,26.97,East,Mike R.
+ORD-1407,2024-08-22,Sunset Catering,orders@sunsetcatering.com,Laptop Stand,Electronics,14,45,630,South,Sarah J.
+ORD-1131,2024-08-23,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,3,325,975,West,Mike R.
+ORD-1272,2024-08-23,Greenleaf Ltd,contact@greenleaf.com,"Monitor 27""",Electronics,11,220,2420,South,Tom B.
+ORD-1742,2024-08-23,Delta Supplies,orders@deltasupplies.com,Mechanical Keyboard,Electronics,14,79.99,1119.86,West,Sarah J.
+ORD-1772,2024-08-23,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,7,79,553,West,Lisa C.
+ORD-1318,2024-08-24,Sunshine Bakery,orders@sunshine.com,Standing Desk,Furniture,10,549,5490,South,Anna K.
+ORD-1582,2024-08-24,Blue Ridge Llc,admin@blueridge.com,Desk Lamp,Office Supplies,1,34.99,34.99,North,Lisa C.
+ORD-1860,2024-08-24,Delta Supplies,orders@deltasupplies.com,Ergonomic Chair,Furniture,11,325,3575,North,Tom B.
+ORD-1909,2024-08-24,Acme Corp,billing@acme.com,Pdf Editor,Software,11,79,869,West,Mike R.
+ORD-1300,2024-08-25,Metro Office Co,buy@metrooffice.com,Antivirus 1yr,Software,12,59.99,719.88,North,Mike R.
+ORD-1773,2024-08-25,Bright Horizons,hello@brighthorizons.com,Pdf Editor,Software,11,79,869,East,Mike R.
+ORD-1875,2024-08-25,Global Tech,info@globaltech.com,Desk Organizer,Office Supplies,10,12.5,125,North,Anna K.
+ORD-1056,2024-08-26,Blue Ridge Llc,admin@blueridge.com,Desk Organizer,Office Supplies,8,12.5,100,East,Anna K.
+ORD-1103,2024-08-26,Global Tech,info@globaltech.com,Standing Desk,Furniture,4,549,2196,South,Sarah J.
+ORD-1350,2024-08-26,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,13,59.99,779.87,East,Mike R.
+ORD-1355,2024-08-26,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,6,35,210,South,Anna K.
+ORD-1750,2024-08-26,Blue Ridge Llc,admin@blueridge.com,Mechanical Keyboard,Electronics,10,79.99,799.9,West,Tom B.
+ORD-1518,2024-08-27,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,7,549,3843,South,Lisa C.
+ORD-1041,2024-08-28,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,3,79,237,North,Lisa C.
+ORD-1317,2024-08-28,Rivera & Sons,contact@riverasons.com,Notebook Set,Office Supplies,14,18,252,East,Lisa C.
+ORD-1374,2024-08-28,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,2,325,650,East,Sarah J.
+ORD-1561,2024-08-28,Sunshine Bakery,orders@sunshine.com,Pen Pack,Office Supplies,10,8.99,89.9,North,Anna K.
+ORD-1050,2024-08-29,Rivera & Sons,contact@riverasons.com,Vpn Annual,Software,3,49,147,West,Mike R.
+ORD-1189,2024-08-30,Global Tech,info@globaltech.com,Standing Desk,Furniture,8,549,4392,West,Lisa C.
+ORD-1233,2024-08-30,Sunshine Bakery,orders@sunshine.com,Notebook Set,Office Supplies,12,18,216,West,Anna K.
+ORD-1309,2024-08-30,Acme Corp,billing@acme.com,Desk Lamp,Office Supplies,3,34.99,104.97,West,Anna K.
+ORD-1358,2024-08-30,Novex Industries,purchase@novex.com,Pdf Editor,Software,12,79,948,North,Lisa C.
+ORD-1432,2024-08-31,Rivera & Sons,contact@riverasons.com,Antivirus 1yr,Software,6,59.99,359.94,West,Anna K.
+ORD-1785,2024-08-31,Rivera & Sons,contact@riverasons.com,Vpn Annual,Software,12,49,588,South,Tom B.
+ORD-1824,2024-08-31,Peak Solutions,info@peaksol.com,Notebook Set,Office Supplies,2,18,36,North,Mike R.
+ORD-1707,2024-09-01,Global Tech,info@globaltech.com,Antivirus 1yr,Software,8,59.99,479.92,South,Sarah J.
+ORD-1799,2024-09-01,Global Tech,info@globaltech.com,Webcam Hd,Electronics,9,35,315,West,Lisa C.
+ORD-1843,2024-09-01,Rivera & Sons,contact@riverasons.com,Wireless Mouse,Electronics,13,29.99,389.87,North,Lisa C.
+ORD-1525,2024-09-02,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,7,325,2275,West,Anna K.
+ORD-1564,2024-09-02,Greenleaf Ltd,contact@greenleaf.com,Pen Pack,Office Supplies,11,8.99,98.89,East,Sarah J.
+ORD-1963,2024-09-02,Sunset Catering,orders@sunsetcatering.com,Standing Desk,Furniture,12,549,6588,East,Anna K.
+ORD-1728,2024-09-03,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,8,35,280,West,Lisa C.
+ORD-1736,2024-09-03,Sunshine Bakery,orders@sunshine.com,Desk Lamp,Office Supplies,13,34.99,454.87,South,Tom B.
+ORD-1312,2024-09-04,Bright Horizons,hello@brighthorizons.com,Notebook Set,Office Supplies,6,18,108,West,Anna K.
+ORD-1700,2024-09-04,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,6,325,1950,North,Tom B.
+ORD-1380,2024-09-05,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,13,325,4225,West,Sarah J.
+ORD-1883,2024-09-05,Greenleaf Ltd,contact@greenleaf.com,Stapler Pro,Office Supplies,3,22.5,67.5,North,Mike R.
+ORD-1150,2024-09-06,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,2,8.99,17.98,South,Lisa C.
+ORD-1205,2024-09-06,Metro Office Co,buy@metrooffice.com,Wireless Mouse,Electronics,8,29.99,239.92,East,Mike R.
+ORD-1415,2024-09-06,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,8,49,392,East,Lisa C.
+ORD-1851,2024-09-06,Peak Solutions,info@peaksol.com,Laptop Stand,Electronics,13,45,585,North,Mike R.
+ORD-1997,2024-09-06,Blue Ridge Llc,admin@blueridge.com,Pen Pack,Office Supplies,12,8.99,107.88,West,Lisa C.
+ORD-1340,2024-09-07,Peak Solutions,info@peaksol.com,"Monitor 27""",Electronics,11,220,2420,East,Tom B.
+ORD-1780,2024-09-07,Novex Industries,purchase@novex.com,Desk Organizer,Office Supplies,11,12.5,137.5,South,Lisa C.
+ORD-1216,2024-09-08,Novex Industries,purchase@novex.com,Pen Pack,Office Supplies,5,8.99,44.95,North,Anna K.
+ORD-1394,2024-09-08,Bright Horizons,hello@brighthorizons.com,Monitor Arm,Furniture,2,89.99,179.98,East,Anna K.
+ORD-1523,2024-09-08,Rivera & Sons,contact@riverasons.com,"Monitor 27""",Electronics,9,220,1980,South,Tom B.
+ORD-1583,2024-09-09,Delta Supplies,orders@deltasupplies.com,Mechanical Keyboard,Electronics,5,79.99,399.95,West,Tom B.
+ORD-1639,2024-09-09,Novex Industries,purchase@novex.com,"Monitor 27""",Electronics,9,220,1980,West,Lisa C.
+ORD-1947,2024-09-09,Greenleaf Ltd,contact@greenleaf.com,Laptop Stand,Electronics,9,45,405,East,Anna K.
+ORD-1967,2024-09-09,Rivera & Sons,contact@riverasons.com,Desk Lamp,Office Supplies,5,34.99,174.95,South,Sarah J.
+ORD-1377,2024-09-10,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,12,89.99,1079.88,North,Sarah J.
+ORD-1462,2024-09-10,Sunset Catering,orders@sunsetcatering.com,Monitor Arm,Furniture,7,89.99,629.93,North,Mike R.
+ORD-1621,2024-09-10,Greenleaf Ltd,contact@greenleaf.com,Ergonomic Chair,Furniture,8,325,2600,East,Lisa C.
+ORD-1393,2024-09-11,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,2,22.5,45,East,Lisa C.
+ORD-1941,2024-09-11,Rivera & Sons,contact@riverasons.com,Vpn Annual,Software,13,49,637,South,Sarah J.
+ORD-1104,2024-09-12,Blue Ridge Llc,admin@blueridge.com,Antivirus 1yr,Software,2,59.99,119.98,West,Anna K.
+ORD-1557,2024-09-12,Global Tech,info@globaltech.com,Pdf Editor,Software,3,79,237,East,Mike R.
+ORD-1691,2024-09-12,Rivera & Sons,contact@riverasons.com,Desk Lamp,Office Supplies,5,34.99,174.95,West,Sarah J.
+ORD-1744,2024-09-12,Global Tech,info@globaltech.com,Standing Desk,Furniture,10,549,5490,South,Lisa C.
+ORD-1663,2024-09-13,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,7,22.5,157.5,West,Tom B.
+ORD-1903,2024-09-13,Delta Supplies,orders@deltasupplies.com,Webcam Hd,Electronics,7,35,245,West,Sarah J.
+ORD-1085,2024-09-14,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,14,59.99,839.86,South,Anna K.
+ORD-1566,2024-09-14,Global Tech,info@globaltech.com,Vpn Annual,Software,8,49,392,West,Tom B.
+ORD-1601,2024-09-14,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,6,549,3294,West,Tom B.
+ORD-1683,2024-09-14,Novex Industries,purchase@novex.com,Vpn Annual,Software,6,49,294,East,Sarah J.
+ORD-1931,2024-09-14,Rivera & Sons,contact@riverasons.com,Wireless Mouse,Electronics,11,29.99,329.89,South,Anna K.
+ORD-1132,2024-09-15,Sunset Catering,orders@sunsetcatering.com,Ergonomic Chair,Furniture,10,325,3250,West,Tom B.
+ORD-1281,2024-09-15,Novex Industries,purchase@novex.com,Stapler Pro,Office Supplies,10,22.5,225,West,Lisa C.
+ORD-1352,2024-09-15,Acme Corp,billing@acme.com,Vpn Annual,Software,7,49,343,West,Sarah J.
+ORD-1376,2024-09-15,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,12,79,948,South,Tom B.
+ORD-1571,2024-09-15,Global Tech,info@globaltech.com,Vpn Annual,Software,15,49,735,East,Anna K.
+ORD-1083,2024-09-16,Bright Horizons,hello@brighthorizons.com,Laptop Stand,Electronics,6,45,270,South,Anna K.
+ORD-1569,2024-09-16,Blue Ridge Llc,admin@blueridge.com,Monitor Arm,Furniture,5,89.99,449.95,East,Tom B.
+ORD-1899,2024-09-17,Delta Supplies,orders@deltasupplies.com,Usb-C Hub,Electronics,9,49.99,449.91,North,Lisa C.
+ORD-1930,2024-09-17,Blue Ridge Llc,admin@blueridge.com,Wireless Mouse,Electronics,14,29.99,419.85999999999996,South,Tom B.
+ORD-1414,2024-09-18,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,8,59.99,479.92,East,Lisa C.
+ORD-1364,2024-09-19,Peak Solutions,info@peaksol.com,Desk Lamp,Office Supplies,6,34.99,209.94,North,Lisa C.
+ORD-1370,2024-09-20,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,10,12.5,125,South,Anna K.
+ORD-1215,2024-09-22,Bright Horizons,hello@brighthorizons.com,Mechanical Keyboard,Electronics,11,79.99,879.89,South,Tom B.
+ORD-1831,2024-09-22,Metro Office Co,buy@metrooffice.com,Pdf Editor,Software,5,79,395,West,Mike R.
+ORD-1900,2024-09-22,Sunshine Bakery,orders@sunshine.com,Antivirus 1yr,Software,7,59.99,419.93,North,Lisa C.
+ORD-1429,2024-09-23,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,2,325,650,East,Anna K.
+ORD-1483,2024-09-23,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,4,325,1300,East,Lisa C.
+ORD-1698,2024-09-23,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,13,59.99,779.87,West,Lisa C.
+ORD-1962,2024-09-23,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,8,79,632,South,Mike R.
+ORD-1512,2024-09-24,Novex Industries,purchase@novex.com,Desk Organizer,Office Supplies,11,12.5,137.5,North,Mike R.
+ORD-1908,2024-09-24,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,5,549,2745,South,Sarah J.
+ORD-1596,2024-09-26,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,6,89.99,539.94,East,Tom B.
+ORD-1651,2024-09-26,Global Tech,info@globaltech.com,Pdf Editor,Software,1,79,79,South,Lisa C.
+ORD-1516,2024-09-27,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,5,89.99,449.95,North,Sarah J.
+ORD-1882,2024-09-27,Blue Ridge Llc,admin@blueridge.com,Ergonomic Chair,Furniture,7,325,2275,West,Anna K.
+ORD-1161,2024-09-28,Delta Supplies,orders@deltasupplies.com,"Monitor 27""",Electronics,11,220,2420,South,Tom B.
+ORD-1204,2024-09-28,Blue Ridge Llc,admin@blueridge.com,Antivirus 1yr,Software,14,59.99,839.86,South,Mike R.
+ORD-1332,2024-09-28,Metro Office Co,buy@metrooffice.com,Wireless Mouse,Electronics,15,29.99,449.85,East,Tom B.
+ORD-1354,2024-09-28,Acme Corp,billing@acme.com,Standing Desk,Furniture,13,549,7137,East,Anna K.
+ORD-1904,2024-09-28,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,10,79,790,North,Mike R.
+ORD-1980,2024-09-28,Metro Office Co,buy@metrooffice.com,Webcam Hd,Electronics,6,35,210,East,Mike R.
+ORD-1246,2024-09-29,Bright Horizons,hello@brighthorizons.com,Wireless Mouse,Electronics,8,29.99,239.92,South,Anna K.
+ORD-1314,2024-09-29,Novex Industries,purchase@novex.com,Vpn Annual,Software,2,49,98,East,Mike R.
+ORD-1618,2024-09-30,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,11,49,539,North,Anna K.
+ORD-1003,2024-10-01,Global Tech,info@globaltech.com,Antivirus 1yr,Software,9,59.99,539.91,East,Anna K.
+ORD-1387,2024-10-01,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,1,549,549,East,Anna K.
+ORD-1238,2024-10-02,Rivera & Sons,contact@riverasons.com,Monitor Arm,Furniture,15,89.99,1349.85,North,Sarah J.
+ORD-1798,2024-10-02,Novex Industries,purchase@novex.com,Antivirus 1yr,Software,8,59.99,479.92,West,Anna K.
+ORD-1059,2024-10-03,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,5,325,1625,West,Lisa C.
+ORD-1258,2024-10-03,Acme Corp,billing@acme.com,Standing Desk,Furniture,14,549,7686,South,Tom B.
+ORD-1338,2024-10-03,Rivera & Sons,contact@riverasons.com,Mechanical Keyboard,Electronics,12,79.99,959.88,West,Sarah J.
+ORD-1153,2024-10-04,Acme Corp,billing@acme.com,Vpn Annual,Software,4,49,196,West,Sarah J.
+ORD-1567,2024-10-04,Peak Solutions,info@peaksol.com,Pdf Editor,Software,14,79,1106,West,Lisa C.
+ORD-1685,2024-10-04,Blue Ridge Llc,admin@blueridge.com,Pen Pack,Office Supplies,6,8.99,53.94,West,Sarah J.
+ORD-1949,2024-10-04,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,5,89.99,449.95,South,Mike R.
+ORD-1144,2024-10-05,Acme Corp,billing@acme.com,Monitor Arm,Furniture,15,89.99,1349.85,North,Sarah J.
+ORD-1303,2024-10-05,Acme Corp,billing@acme.com,Antivirus 1yr,Software,4,59.99,239.96,West,Tom B.
+ORD-1266,2024-10-07,Sunset Catering,orders@sunsetcatering.com,Stapler Pro,Office Supplies,3,22.5,67.5,West,Anna K.
+ORD-1268,2024-10-07,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,15,34.99,524.85,West,Tom B.
+ORD-1319,2024-10-07,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,2,79,158,East,Mike R.
+ORD-1907,2024-10-07,Sunset Catering,orders@sunsetcatering.com,Antivirus 1yr,Software,9,59.99,539.91,South,Tom B.
+ORD-1732,2024-10-08,Sunset Catering,orders@sunsetcatering.com,Laptop Stand,Electronics,14,45,630,East,Anna K.
+ORD-1225,2024-10-09,Acme Corp,billing@acme.com,Laptop Stand,Electronics,5,45,225,South,Anna K.
+ORD-1325,2024-10-09,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,4,79,316,South,Tom B.
+ORD-1617,2024-10-09,Sunset Catering,orders@sunsetcatering.com,Pen Pack,Office Supplies,12,8.99,107.88,North,Sarah J.
+ORD-1641,2024-10-09,Bright Horizons,hello@brighthorizons.com,Desk Organizer,Office Supplies,10,12.5,125,North,Anna K.
+ORD-1706,2024-10-09,Blue Ridge Llc,admin@blueridge.com,Laptop Stand,Electronics,4,45,180,North,Mike R.
+ORD-1879,2024-10-09,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,15,325,4875,West,Sarah J.
+ORD-1905,2024-10-09,Greenleaf Ltd,contact@greenleaf.com,Laptop Stand,Electronics,8,45,360,North,Tom B.
+ORD-1636,2024-10-10,Greenleaf Ltd,contact@greenleaf.com,Vpn Annual,Software,2,49,98,South,Sarah J.
+ORD-1293,2024-10-11,Blue Ridge Llc,admin@blueridge.com,Notebook Set,Office Supplies,6,18,108,West,Mike R.
+ORD-1458,2024-10-11,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,8,8.99,71.92,South,Anna K.
+ORD-2000,2024-10-11,Acme Corp,billing@acme.com,Antivirus 1yr,Software,5,59.99,299.95,West,Tom B.
+ORD-1046,2024-10-12,Blue Ridge Llc,admin@blueridge.com,Usb-C Hub,Electronics,8,49.99,399.92,West,Lisa C.
+ORD-1718,2024-10-12,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,14,22.5,315,North,Anna K.
+ORD-1874,2024-10-12,Sunset Catering,orders@sunsetcatering.com,Pdf Editor,Software,11,79,869,East,Mike R.
+ORD-1956,2024-10-12,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,6,59.99,359.94,West,Tom B.
+ORD-1976,2024-10-12,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,9,49,441,South,Lisa C.
+ORD-1002,2024-10-14,Rivera & Sons,contact@riverasons.com,Antivirus 1yr,Software,8,59.99,479.92,East,Sarah J.
+ORD-1096,2024-10-14,Global Tech,info@globaltech.com,Standing Desk,Furniture,12,549,6588,West,Mike R.
+ORD-1200,2024-10-14,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,11,549,6039,North,Tom B.
+ORD-1423,2024-10-14,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,6,79,474,East,Sarah J.
+ORD-1437,2024-10-14,Metro Office Co,buy@metrooffice.com,Laptop Stand,Electronics,9,45,405,North,Mike R.
+ORD-1661,2024-10-14,Bright Horizons,hello@brighthorizons.com,Desk Organizer,Office Supplies,10,12.5,125,South,Sarah J.
+ORD-1190,2024-10-15,Acme Corp,billing@acme.com,Desk Organizer,Office Supplies,2,12.5,25,East,Anna K.
+ORD-1328,2024-10-15,Blue Ridge Llc,admin@blueridge.com,Laptop Stand,Electronics,8,45,360,South,Anna K.
+ORD-1734,2024-10-15,Bright Horizons,hello@brighthorizons.com,"Monitor 27""",Electronics,6,220,1320,South,Anna K.
+ORD-1981,2024-10-15,Metro Office Co,buy@metrooffice.com,Pdf Editor,Software,7,79,553,East,Anna K.
+ORD-1035,2024-10-16,Acme Corp,billing@acme.com,Monitor Arm,Furniture,7,89.99,629.93,East,Sarah J.
+ORD-1965,2024-10-16,Metro Office Co,buy@metrooffice.com,Desk Organizer,Office Supplies,6,12.5,75,South,Mike R.
+ORD-1181,2024-10-17,Delta Supplies,orders@deltasupplies.com,Stapler Pro,Office Supplies,4,22.5,90,West,Anna K.
+ORD-1184,2024-10-17,Acme Corp,billing@acme.com,Stapler Pro,Office Supplies,6,22.5,135,South,Anna K.
+ORD-1943,2024-10-17,Peak Solutions,info@peaksol.com,Vpn Annual,Software,1,49,49,East,Mike R.
+ORD-1614,2024-10-18,Global Tech,info@globaltech.com,Stapler Pro,Office Supplies,5,22.5,112.5,North,Sarah J.
+ORD-1572,2024-10-19,Peak Solutions,info@peaksol.com,Laptop Stand,Electronics,12,45,540,South,Tom B.
+ORD-1315,2024-10-20,Rivera & Sons,contact@riverasons.com,Desk Organizer,Office Supplies,5,12.5,62.5,East,Anna K.
+ORD-1781,2024-10-20,Acme Corp,billing@acme.com,Standing Desk,Furniture,4,549,2196,West,Tom B.
+ORD-1057,2024-10-21,Blue Ridge Llc,admin@blueridge.com,Ergonomic Chair,Furniture,14,325,4550,West,Lisa C.
+ORD-1075,2024-10-21,Peak Solutions,info@peaksol.com,Vpn Annual,Software,11,49,539,West,Lisa C.
+ORD-1142,2024-10-21,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,5,549,2745,West,Lisa C.
+ORD-1070,2024-10-22,Bright Horizons,hello@brighthorizons.com,Notebook Set,Office Supplies,11,18,198,West,Mike R.
+ORD-1125,2024-10-22,Delta Supplies,orders@deltasupplies.com,Ergonomic Chair,Furniture,5,325,1625,South,Anna K.
+ORD-1262,2024-10-22,Delta Supplies,orders@deltasupplies.com,Pen Pack,Office Supplies,6,8.99,53.94,East,Anna K.
+ORD-1389,2024-10-22,Sunset Catering,orders@sunsetcatering.com,Desk Lamp,Office Supplies,5,34.99,174.95,West,Anna K.
+ORD-1501,2024-10-22,Greenleaf Ltd,contact@greenleaf.com,Webcam Hd,Electronics,1,35,35,South,Tom B.
+ORD-1375,2024-10-23,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,14,325,4550,South,Anna K.
+ORD-1629,2024-10-23,Novex Industries,purchase@novex.com,"Monitor 27""",Electronics,12,220,2640,South,Sarah J.
+ORD-1937,2024-10-23,Novex Industries,purchase@novex.com,Usb-C Hub,Electronics,14,49.99,699.86,West,Lisa C.
+ORD-1602,2024-10-24,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,10,325,3250,East,Sarah J.
+ORD-1898,2024-10-24,Global Tech,info@globaltech.com,Desk Organizer,Office Supplies,4,12.5,50,North,Anna K.
+ORD-1006,2024-10-25,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,3,325,975,West,Sarah J.
+ORD-1585,2024-10-25,Sunset Catering,orders@sunsetcatering.com,Usb-C Hub,Electronics,6,49.99,299.94,South,Anna K.
+ORD-1825,2024-10-25,Peak Solutions,info@peaksol.com,"Monitor 27""",Electronics,1,220,220,South,Mike R.
+ORD-1367,2024-10-26,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,12,49,588,West,Mike R.
+ORD-1418,2024-10-26,Rivera & Sons,contact@riverasons.com,Pen Pack,Office Supplies,10,8.99,89.9,West,Sarah J.
+ORD-1062,2024-10-27,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,11,34.99,384.89,North,Tom B.
+ORD-1064,2024-10-27,Rivera & Sons,contact@riverasons.com,Pen Pack,Office Supplies,13,8.99,116.87,South,Anna K.
+ORD-1491,2024-10-27,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,14,49,686,North,Sarah J.
+ORD-1555,2024-10-27,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,3,325,975,West,Sarah J.
+ORD-1892,2024-10-27,Peak Solutions,info@peaksol.com,Webcam Hd,Electronics,11,35,385,West,Mike R.
+ORD-1972,2024-10-27,Greenleaf Ltd,contact@greenleaf.com,Monitor Arm,Furniture,1,89.99,89.99,North,Lisa C.
+ORD-1065,2024-10-28,Novex Industries,purchase@novex.com,Usb-C Hub,Electronics,5,49.99,249.95,North,Mike R.
+ORD-1076,2024-10-28,Peak Solutions,info@peaksol.com,Mechanical Keyboard,Electronics,14,79.99,1119.86,East,Lisa C.
+ORD-1162,2024-10-28,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,7,79,553,East,Mike R.
+ORD-1454,2024-10-30,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,5,22.5,112.5,East,Tom B.
+ORD-1598,2024-10-30,Global Tech,info@globaltech.com,Mechanical Keyboard,Electronics,5,79.99,399.95,North,Tom B.
+ORD-1286,2024-10-31,Delta Supplies,orders@deltasupplies.com,Usb-C Hub,Electronics,7,49.99,349.93,East,Tom B.
+ORD-1590,2024-10-31,Blue Ridge Llc,admin@blueridge.com,Vpn Annual,Software,7,49,343,North,Sarah J.
+ORD-1139,2024-11-01,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,1,549,549,East,Tom B.
+ORD-1403,2024-11-01,Blue Ridge Llc,admin@blueridge.com,Wireless Mouse,Electronics,9,29.99,269.91,North,Sarah J.
+ORD-1915,2024-11-01,Bright Horizons,hello@brighthorizons.com,Usb-C Hub,Electronics,12,49.99,599.88,West,Lisa C.
+ORD-1453,2024-11-02,Metro Office Co,buy@metrooffice.com,Mechanical Keyboard,Electronics,7,79.99,559.93,West,Tom B.
+ORD-1814,2024-11-02,Novex Industries,purchase@novex.com,Stapler Pro,Office Supplies,3,22.5,67.5,South,Tom B.
+ORD-1969,2024-11-03,Delta Supplies,orders@deltasupplies.com,Notebook Set,Office Supplies,3,18,54,North,Sarah J.
+ORD-1768,2024-11-04,Bright Horizons,hello@brighthorizons.com,Monitor Arm,Furniture,3,89.99,269.97,South,Anna K.
+ORD-1807,2024-11-04,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,9,79,711,East,Mike R.
+ORD-1294,2024-11-05,Novex Industries,purchase@novex.com,Vpn Annual,Software,3,49,147,South,Mike R.
+ORD-1034,2024-11-06,Delta Supplies,orders@deltasupplies.com,Usb-C Hub,Electronics,5,49.99,249.95,North,Anna K.
+ORD-1635,2024-11-06,Blue Ridge Llc,admin@blueridge.com,Standing Desk,Furniture,6,549,3294,North,Sarah J.
+ORD-1846,2024-11-06,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,9,79,711,West,Mike R.
+ORD-1970,2024-11-06,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,9,49,441,West,Lisa C.
+ORD-1248,2024-11-07,Metro Office Co,buy@metrooffice.com,Pen Pack,Office Supplies,7,8.99,62.93,East,Sarah J.
+ORD-1061,2024-11-08,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,14,45,630,West,Lisa C.
+ORD-1214,2024-11-08,Peak Solutions,info@peaksol.com,Monitor Arm,Furniture,1,89.99,89.99,South,Tom B.
+ORD-1336,2024-11-08,Peak Solutions,info@peaksol.com,Desk Lamp,Office Supplies,2,34.99,69.98,South,Anna K.
+ORD-1989,2024-11-08,Delta Supplies,orders@deltasupplies.com,"Monitor 27""",Electronics,5,220,1100,West,Tom B.
+ORD-1327,2024-11-09,Acme Corp,billing@acme.com,Monitor Arm,Furniture,13,89.99,1169.87,North,Tom B.
+ORD-1757,2024-11-09,Novex Industries,purchase@novex.com,Vpn Annual,Software,9,49,441,West,Tom B.
+ORD-1079,2024-11-10,Delta Supplies,orders@deltasupplies.com,Pdf Editor,Software,10,79,790,North,Tom B.
+ORD-1089,2024-11-10,Novex Industries,purchase@novex.com,Stapler Pro,Office Supplies,7,22.5,157.5,South,Sarah J.
+ORD-1148,2024-11-10,Rivera & Sons,contact@riverasons.com,Vpn Annual,Software,7,49,343,West,Sarah J.
+ORD-1257,2024-11-10,Acme Corp,billing@acme.com,Mechanical Keyboard,Electronics,6,79.99,479.94,East,Tom B.
+ORD-1838,2024-11-10,Peak Solutions,info@peaksol.com,"Monitor 27""",Electronics,13,220,2860,East,Mike R.
+ORD-1036,2024-11-11,Bright Horizons,hello@brighthorizons.com,Pdf Editor,Software,7,79,553,East,Lisa C.
+ORD-1316,2024-11-11,Novex Industries,purchase@novex.com,Standing Desk,Furniture,14,549,7686,South,Anna K.
+ORD-1329,2024-11-11,Blue Ridge Llc,admin@blueridge.com,Standing Desk,Furniture,1,549,549,North,Anna K.
+ORD-1675,2024-11-11,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,7,49,343,West,Mike R.
+ORD-1346,2024-11-12,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,13,34.99,454.87,South,Lisa C.
+ORD-1921,2024-11-14,Rivera & Sons,contact@riverasons.com,Standing Desk,Furniture,12,549,6588,North,Sarah J.
+ORD-1024,2024-11-15,Novex Industries,purchase@novex.com,Laptop Stand,Electronics,15,45,675,East,Anna K.
+ORD-1067,2024-11-15,Metro Office Co,buy@metrooffice.com,Standing Desk,Furniture,10,549,5490,East,Tom B.
+ORD-1245,2024-11-15,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,12,325,3900,East,Tom B.
+ORD-1660,2024-11-15,Sunset Catering,orders@sunsetcatering.com,Desk Organizer,Office Supplies,6,12.5,75,South,Lisa C.
+ORD-1227,2024-11-16,Delta Supplies,orders@deltasupplies.com,Standing Desk,Furniture,13,549,7137,East,Sarah J.
+ORD-1230,2024-11-16,Global Tech,info@globaltech.com,Notebook Set,Office Supplies,14,18,252,West,Sarah J.
+ORD-1945,2024-11-16,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,12,59.99,719.88,West,Sarah J.
+ORD-1078,2024-11-17,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,2,34.99,69.98,West,Tom B.
+ORD-1192,2024-11-17,Sunshine Bakery,orders@sunshine.com,Standing Desk,Furniture,15,549,8235,North,Sarah J.
+ORD-1894,2024-11-17,Delta Supplies,orders@deltasupplies.com,Laptop Stand,Electronics,5,45,225,South,Mike R.
+ORD-1694,2024-11-18,Global Tech,info@globaltech.com,Monitor Arm,Furniture,9,89.99,809.91,West,Mike R.
+ORD-1992,2024-11-18,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,14,325,4550,North,Mike R.
+ORD-1263,2024-11-19,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,2,59.99,119.98,South,Lisa C.
+ORD-1503,2024-11-19,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,12,79,948,West,Sarah J.
+ORD-1508,2024-11-19,Metro Office Co,buy@metrooffice.com,Pdf Editor,Software,1,79,79,North,Sarah J.
+ORD-1784,2024-11-19,Novex Industries,purchase@novex.com,"Monitor 27""",Electronics,2,220,440,North,Mike R.
+ORD-1854,2024-11-19,Metro Office Co,buy@metrooffice.com,Monitor Arm,Furniture,3,89.99,269.97,East,Anna K.
+ORD-1390,2024-11-20,Rivera & Sons,contact@riverasons.com,Pdf Editor,Software,14,79,1106,East,Mike R.
+ORD-1565,2024-11-20,Sunset Catering,orders@sunsetcatering.com,Wireless Mouse,Electronics,4,29.99,119.96,South,Tom B.
+ORD-1779,2024-11-20,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,13,89.99,1169.87,North,Lisa C.
+ORD-1001,2024-11-23,Global Tech,info@globaltech.com,Laptop Stand,Electronics,5,45,225,South,Mike R.
+ORD-1335,2024-11-23,Sunset Catering,orders@sunsetcatering.com,Standing Desk,Furniture,12,549,6588,East,Lisa C.
+ORD-1926,2024-11-23,Global Tech,info@globaltech.com,Pdf Editor,Software,15,79,1185,North,Tom B.
+ORD-1966,2024-11-23,Blue Ridge Llc,admin@blueridge.com,Stapler Pro,Office Supplies,9,22.5,202.5,South,Mike R.
+ORD-1122,2024-11-24,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,15,79,1185,West,Tom B.
+ORD-1232,2024-11-24,Greenleaf Ltd,contact@greenleaf.com,Laptop Stand,Electronics,10,45,450,North,Sarah J.
+ORD-1560,2024-11-24,Bright Horizons,hello@brighthorizons.com,Antivirus 1yr,Software,2,59.99,119.98,South,Sarah J.
+ORD-1126,2024-11-25,Metro Office Co,buy@metrooffice.com,Vpn Annual,Software,6,49,294,West,Tom B.
+ORD-1703,2024-11-25,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,6,89.99,539.94,West,Tom B.
+ORD-1800,2024-11-25,Blue Ridge Llc,admin@blueridge.com,Monitor Arm,Furniture,13,89.99,1169.87,North,Anna K.
+ORD-1038,2024-11-26,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,13,79,1027,North,Sarah J.
+ORD-1550,2024-11-26,Greenleaf Ltd,contact@greenleaf.com,Webcam Hd,Electronics,2,35,70,South,Sarah J.
+ORD-1797,2024-11-26,Rivera & Sons,contact@riverasons.com,Webcam Hd,Electronics,12,35,420,North,Mike R.
+ORD-1362,2024-11-27,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,15,549,8235,East,Anna K.
+ORD-1558,2024-11-28,Sunshine Bakery,orders@sunshine.com,"Monitor 27""",Electronics,8,220,1760,North,Lisa C.
+ORD-1927,2024-11-28,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,13,22.5,292.5,North,Lisa C.
+ORD-1631,2024-11-29,Novex Industries,purchase@novex.com,Pdf Editor,Software,10,79,790,North,Mike R.
+ORD-1719,2024-11-29,Novex Industries,purchase@novex.com,Usb-C Hub,Electronics,11,49.99,549.89,East,Tom B.
+ORD-1884,2024-11-29,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,1,45,45,West,Sarah J.
+ORD-1134,2024-11-30,Metro Office Co,buy@metrooffice.com,Wireless Mouse,Electronics,7,29.99,209.93,West,Tom B.
+ORD-1239,2024-11-30,Sunshine Bakery,orders@sunshine.com,Standing Desk,Furniture,4,549,2196,East,Mike R.
+ORD-1500,2024-11-30,Metro Office Co,buy@metrooffice.com,Antivirus 1yr,Software,4,59.99,239.96,East,Sarah J.
+ORD-1552,2024-11-30,Metro Office Co,buy@metrooffice.com,Pdf Editor,Software,3,79,237,North,Lisa C.
+ORD-1861,2024-11-30,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,13,79,1027,South,Lisa C.
+ORD-1416,2024-12-01,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,7,49,343,West,Lisa C.
+ORD-1650,2024-12-01,Acme Corp,billing@acme.com,Pen Pack,Office Supplies,9,8.99,80.91,South,Mike R.
+ORD-1695,2024-12-01,Sunshine Bakery,orders@sunshine.com,Mechanical Keyboard,Electronics,10,79.99,799.9,West,Tom B.
+ORD-1606,2024-12-02,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,12,22.5,270,South,Tom B.
+ORD-1632,2024-12-02,Greenleaf Ltd,contact@greenleaf.com,Desk Lamp,Office Supplies,13,34.99,454.87,North,Sarah J.
+ORD-1893,2024-12-02,Greenleaf Ltd,contact@greenleaf.com,Mechanical Keyboard,Electronics,14,79.99,1119.86,South,Tom B.
+ORD-1066,2024-12-03,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,11,549,6039,North,Sarah J.
+ORD-1716,2024-12-03,Global Tech,info@globaltech.com,Standing Desk,Furniture,15,549,8235,West,Mike R.
+ORD-1758,2024-12-03,Greenleaf Ltd,contact@greenleaf.com,"Monitor 27""",Electronics,2,220,440,East,Anna K.
+ORD-1774,2024-12-03,Peak Solutions,info@peaksol.com,Antivirus 1yr,Software,8,59.99,479.92,North,Mike R.
+ORD-1624,2024-12-04,Blue Ridge Llc,admin@blueridge.com,"Monitor 27""",Electronics,13,220,2860,East,Sarah J.
+ORD-1173,2024-12-05,Sunshine Bakery,orders@sunshine.com,Pen Pack,Office Supplies,5,8.99,44.95,East,Tom B.
+ORD-1228,2024-12-05,Novex Industries,purchase@novex.com,Standing Desk,Furniture,5,549,2745,South,Anna K.
+ORD-1395,2024-12-05,Acme Corp,billing@acme.com,Pen Pack,Office Supplies,9,8.99,80.91,West,Lisa C.
+ORD-1944,2024-12-05,Bright Horizons,hello@brighthorizons.com,Vpn Annual,Software,10,49,490,East,Anna K.
+ORD-1495,2024-12-06,Peak Solutions,info@peaksol.com,Vpn Annual,Software,1,49,49,East,Lisa C.
+ORD-1792,2024-12-06,Acme Corp,billing@acme.com,Ergonomic Chair,Furniture,2,325,650,East,Tom B.
+ORD-1996,2024-12-06,Metro Office Co,buy@metrooffice.com,Webcam Hd,Electronics,1,35,35,East,Mike R.
+ORD-1481,2024-12-07,Sunset Catering,orders@sunsetcatering.com,Webcam Hd,Electronics,1,35,35,West,Tom B.
+ORD-1540,2024-12-07,Peak Solutions,info@peaksol.com,Wireless Mouse,Electronics,14,29.99,419.86,North,Sarah J.
+ORD-1544,2024-12-07,Metro Office Co,buy@metrooffice.com,Monitor Arm,Furniture,14,89.99,1259.86,East,Lisa C.
+ORD-1568,2024-12-07,Blue Ridge Llc,admin@blueridge.com,Antivirus 1yr,Software,4,59.99,239.96,West,Anna K.
+ORD-1646,2024-12-08,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,7,49,343,East,Anna K.
+ORD-1082,2024-12-09,Greenleaf Ltd,contact@greenleaf.com,Laptop Stand,Electronics,11,45,495,West,Anna K.
+ORD-1202,2024-12-09,Novex Industries,purchase@novex.com,Ergonomic Chair,Furniture,14,325,4550,South,Lisa C.
+ORD-1012,2024-12-10,Metro Office Co,buy@metrooffice.com,Wireless Mouse,Electronics,7,29.99,209.93,East,Sarah J.
+ORD-1108,2024-12-10,Global Tech,info@globaltech.com,Vpn Annual,Software,5,49,245,North,Anna K.
+ORD-1445,2024-12-10,Sunshine Bakery,orders@sunshine.com,Vpn Annual,Software,15,49,735,West,Tom B.
+ORD-1668,2024-12-10,Novex Industries,purchase@novex.com,Stapler Pro,Office Supplies,12,22.5,270,East,Anna K.
+ORD-1223,2024-12-11,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,13,549,7137,North,Anna K.
+ORD-1813,2024-12-11,Bright Horizons,hello@brighthorizons.com,Pdf Editor,Software,7,79,553,North,Anna K.
+ORD-1136,2024-12-12,Bright Horizons,hello@brighthorizons.com,Standing Desk,Furniture,13,549,7137,South,Sarah J.
+ORD-1212,2024-12-12,Novex Industries,purchase@novex.com,Vpn Annual,Software,2,49,98,North,Sarah J.
+ORD-1341,2024-12-13,Bright Horizons,hello@brighthorizons.com,Stapler Pro,Office Supplies,4,22.5,90,North,Sarah J.
+ORD-1506,2024-12-13,Sunshine Bakery,orders@sunshine.com,Pdf Editor,Software,11,79,869,South,Sarah J.
+ORD-1593,2024-12-13,Acme Corp,billing@acme.com,Standing Desk,Furniture,10,549,5490,North,Tom B.
+ORD-1600,2024-12-13,Novex Industries,purchase@novex.com,Notebook Set,Office Supplies,5,18,90,South,Tom B.
+ORD-1942,2024-12-13,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,13,325,4225,East,Anna K.
+ORD-1007,2024-12-14,Greenleaf Ltd,contact@greenleaf.com,Laptop Stand,Electronics,15,45,675,East,Lisa C.
+ORD-1478,2024-12-14,Metro Office Co,buy@metrooffice.com,Usb-C Hub,Electronics,15,49.99,749.85,North,Mike R.
+ORD-1444,2024-12-15,Novex Industries,purchase@novex.com,Monitor Arm,Furniture,8,89.99,719.92,East,Mike R.
+ORD-1793,2024-12-16,Delta Supplies,orders@deltasupplies.com,Vpn Annual,Software,2,49,98,South,Anna K.
+ORD-1091,2024-12-16,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,3,49,147,South,Sarah J.
+ORD-1678,2024-12-16,Bright Horizons,hello@brighthorizons.com,Ergonomic Chair,Furniture,8,325,2600,South,Lisa C.
+ORD-1696,2024-12-16,Global Tech,info@globaltech.com,Ergonomic Chair,Furniture,12,325,3900,West,Anna K.
+ORD-1769,2024-12-16,Rivera & Sons,contact@riverasons.com,Mechanical Keyboard,Electronics,1,79.99,79.99,North,Tom B.
+ORD-1819,2024-12-16,Sunset Catering,orders@sunsetcatering.com,Mechanical Keyboard,Electronics,1,79.99,79.99,West,Sarah J.
+ORD-1517,2024-12-17,Bright Horizons,hello@brighthorizons.com,Notebook Set,Office Supplies,3,18,54,West,Anna K.
+ORD-1298,2024-12-18,Novex Industries,purchase@novex.com,Antivirus 1yr,Software,7,59.99,419.93,West,Sarah J.
+ORD-1373,2024-12-18,Rivera & Sons,contact@riverasons.com,Ergonomic Chair,Furniture,4,325,1300,South,Sarah J.
+ORD-1194,2024-12-19,Rivera & Sons,contact@riverasons.com,Laptop Stand,Electronics,8,45,360,East,Lisa C.
+ORD-1888,2024-12-19,Global Tech,info@globaltech.com,Monitor Arm,Furniture,9,89.99,809.91,East,Tom B.
+ORD-1254,2024-12-21,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,8,49,392,South,Lisa C.
+ORD-1290,2024-12-21,Greenleaf Ltd,contact@greenleaf.com,Mechanical Keyboard,Electronics,10,79.99,799.9,North,Lisa C.
+ORD-1546,2024-12-21,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,13,325,4225,South,Tom B.
+ORD-1816,2024-12-21,Rivera & Sons,contact@riverasons.com,"Monitor 27""",Electronics,13,220,2860,North,Tom B.
+ORD-1489,2024-12-22,Acme Corp,billing@acme.com,Pdf Editor,Software,12,79,948,South,Mike R.
+ORD-1858,2024-12-23,Metro Office Co,buy@metrooffice.com,Desk Organizer,Office Supplies,1,12.5,12.5,West,Mike R.
+ORD-1638,2024-12-24,Sunshine Bakery,orders@sunshine.com,Stapler Pro,Office Supplies,15,22.5,337.5,North,Mike R.
+ORD-1547,2024-12-25,Global Tech,info@globaltech.com,Pen Pack,Office Supplies,1,8.99,8.99,South,Sarah J.
+ORD-1998,2024-12-25,Metro Office Co,buy@metrooffice.com,Monitor Arm,Furniture,7,89.99,629.93,West,Anna K.
+ORD-1110,2024-12-27,Sunshine Bakery,orders@sunshine.com,Stapler Pro,Office Supplies,6,22.5,135,West,Anna K.
+ORD-1667,2024-12-27,Greenleaf Ltd,contact@greenleaf.com,Notebook Set,Office Supplies,2,18,36,West,Sarah J.
+ORD-1756,2024-12-27,Sunshine Bakery,orders@sunshine.com,Desk Lamp,Office Supplies,1,34.99,34.99,North,Anna K.
+ORD-1080,2024-12-28,Sunset Catering,orders@sunsetcatering.com,Vpn Annual,Software,9,49,441,South,Lisa C.
+ORD-1307,2024-12-28,Blue Ridge Llc,admin@blueridge.com,Desk Organizer,Office Supplies,2,12.5,25,North,Tom B.
+ORD-1881,2024-12-28,Sunshine Bakery,orders@sunshine.com,Stapler Pro,Office Supplies,4,22.5,90,West,Sarah J.
+ORD-1961,2024-12-28,Bright Horizons,hello@brighthorizons.com,Laptop Stand,Electronics,3,45,135,South,Sarah J.
+ORD-1049,2024-12-29,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,1,89.99,89.99,West,Sarah J.
+ORD-1154,2024-12-29,Delta Supplies,orders@deltasupplies.com,Antivirus 1yr,Software,10,59.99,599.9,South,Mike R.
+ORD-1475,2024-12-29,Sunshine Bakery,orders@sunshine.com,Monitor Arm,Furniture,12,89.99,1079.88,West,Tom B.
+ORD-1551,2024-12-29,Rivera & Sons,contact@riverasons.com,Antivirus 1yr,Software,5,59.99,299.95,North,Anna K.
+ORD-1172,2024-12-30,Blue Ridge Llc,admin@blueridge.com,Wireless Mouse,Electronics,15,29.99,449.85,South,Anna K.
+ORD-1199,2024-12-30,Greenleaf Ltd,contact@greenleaf.com,Standing Desk,Furniture,15,549,8235,West,Lisa C.
+ORD-1222,2024-12-30,Greenleaf Ltd,contact@greenleaf.com,Notebook Set,Office Supplies,4,18,72,East,Lisa C.
+ORD-1237,2024-12-30,Greenleaf Ltd,contact@greenleaf.com,Pdf Editor,Software,14,79,1106,East,Mike R.
+ORD-1637,2024-12-30,Blue Ridge Llc,admin@blueridge.com,Webcam Hd,Electronics,15,35,525,East,Anna K.
+ORD-1796,2024-12-30,Sunshine Bakery,orders@sunshine.com,Ergonomic Chair,Furniture,8,325,2600,South,Mike R.
+ORD-1865,2024-12-30,Novex Industries,purchase@novex.com,Standing Desk,Furniture,1,549,549,North,Tom B.
+ORD-1087,2024-12-31,Metro Office Co,buy@metrooffice.com,Ergonomic Chair,Furniture,3,325,975,North,Lisa C.
+ORD-1313,2024-12-31,Bright Horizons,hello@brighthorizons.com,Wireless Mouse,Electronics,5,29.99,149.95,North,Anna K.
+ORD-1514,2024-12-31,Novex Industries,purchase@novex.com,Desk Lamp,Office Supplies,14,34.99,489.86,South,Lisa C.
+ORD-1520,2024-12-31,Peak Solutions,info@peaksol.com,Ergonomic Chair,Furniture,12,325,3900,North,Anna K.
+ORD-1845,2024-12-31,Rivera & Sons,contact@riverasons.com,Stapler Pro,Office Supplies,13,22.5,292.5,North,Sarah J.
